@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/ABC.png" group-title="USA - News",ABC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ABC.png" group-title="USA - News",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
 http://190.13.120.114/streams/bbcworld.m3u8
