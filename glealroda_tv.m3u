@@ -27,18 +27,10 @@ http://185.246.209.106/sports_espn_hd/mpegts
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FS1.png" group-title="USA - Sports",FS1
 http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FS1.png" group-title="USA - Sports",FS1 HD
-http://mediastream.pro/stream/3261/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" group-title="USA - Sports",NFL Network HD
-http://mediastream.pro/stream/3274/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA
 http://185.246.209.106/sports_nba_tv_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA HD
-http://mediastream.pro/stream/45235/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/MLBNETWORK.png" group-title="USA - Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEGOLFCHANNEL.png" group-title="USA - Sports",The Golf Channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOXDEPORTES.png" group-title="USA - Sports",FOX Deportes
 http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOX30.png" group-title="USA",FOX 30
@@ -63,18 +55,6 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://91.202.196.122:8000/play/a033/index.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/WWENET.png" group-title="USA",WWE NETWORK
-http://mediastream.pro/stream/22229/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBCSPORTS.png" group-title="USA",NBCSN
-http://mediastream.pro/stream/3275/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TVE24H.png" group-title="USA",TVE 24H
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/GLOBO.png" group-title="USA",Globo
-http://187.75.24.98:9981/stream/channelid/551089650
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/RECORDTV.png" group-title="USA",RECORD
-http://187.75.24.98:9981/stream/channelid/1012331848
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CGTNAMERICA.png" group-title="USA",CGTN AMERICA
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America
 http://190.13.120.114/streams/babytv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America HD
