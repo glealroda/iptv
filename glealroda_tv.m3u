@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" group-title="USA - News",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" group-title="USA - News",BBC America
-http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" group-title="USA - News",BBC America HD
-http://190.13.120.114/streams/bbcamerica.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
 http://190.13.120.114/streams/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="USA - News",CBS
@@ -23,8 +19,30 @@ https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5
 https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WGNAMERICA.png" group-title="USA - News",WGN America
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png" group-title="USA",PBS
-http://192.222.145.93:9981/stream/channelid/915519515?ticket=5BBED7C7B5FCCB9AD73917E92B12E233E0A11063&profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
+http://185.59.223.148/sports_sportsnet_nyc/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA - Sports",ESPN USA
+http://185.246.209.106/sports_espn_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA - Sports",ESPN USA HD
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" group-title="USA - Sports",FS1
+http://185.246.209.106/sports_fox_sports_1_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" group-title="USA - Sports",FS1 HD
+http://mediastream.pro/stream/3261/imran00253/ranmirtufg/
+#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" group-title="USA - Sports",NFL Network HD
+http://mediastream.pro/stream/3274/imran00253/ranmirtufg/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="USA - Sports",NBA
+http://185.246.209.106/sports_nba_tv_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="USA - Sports",NBA HD
+http://mediastream.pro/stream/45235/imran00253/ranmirtufg/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" group-title="USA - Sports",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png" group-title="USA - Sports",The Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXDEPORTES.png" group-title="USA - Sports",FOX Deportes
+http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX30.png" group-title="USA",FOX 30
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="USA",History
@@ -47,32 +65,14 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://91.202.196.122:8000/play/a033/index.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTSNETNY.png" group-title="USA",SportsNet New York
-http://185.59.223.148/sports_sportsnet_nyc/mpegts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" group-title="USA",WWE NETWORK
 http://mediastream.pro/stream/22229/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA",ESPN USA
-http://185.246.209.106/sports_espn_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA",ESPN USA HD
-http://80.80.160.168/live/6/2500000/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBCSPORTS.png" group-title="USA",NBCSN
 http://mediastream.pro/stream/3275/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" group-title="USA",FS1
-http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" group-title="USA",FS1 HD
-http://mediastream.pro/stream/3261/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" group-title="USA",NFL Network HD
-http://mediastream.pro/stream/3274/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="USA",NBA
-http://185.246.209.106/sports_nba_tv_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="USA",NBA HD
-http://mediastream.pro/stream/45235/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" group-title="USA",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png" group-title="USA",The Golf Channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXDEPORTES.png" group-title="USA",FOX Deportes
-http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="USA",TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" group-title="USA",Globo
@@ -81,3 +81,7 @@ http://187.75.24.98:9981/stream/channelid/551089650
 http://187.75.24.98:9981/stream/channelid/1012331848
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTNAMERICA.png" group-title="USA",CGTN AMERICA
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" group-title="USA",BBC America
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCAMERICA.png" group-title="USA",BBC America HD
+http://190.13.120.114/streams/bbcamerica.m3u8
