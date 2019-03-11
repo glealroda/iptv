@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ABC.png" group-title="USA - News",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
 http://190.13.120.114/streams/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CBSNEWS.png" group-title="USA - News",CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CNBC.png" group-title="USA - News",CNBC
 http://61.216.177.73/sta/ch91865014.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CNN.png" group-title="USA - News",CNN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CNN.png" group-title="USA - News",CNN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/EURONEWS.png" group-title="USA - News",Euronews
 http://164.40.161.46:8002/play/s4
