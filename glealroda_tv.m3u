@@ -3,85 +3,79 @@
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
 http://190.13.120.114/streams/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CBSNEWS.png" group-title="USA - News",CBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CBSNEWS.png" group-title="USA - News",CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CNBC.png" group-title="USA - News",CNBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CNBC.png" group-title="USA - News",CNBC
 http://61.216.177.73/sta/ch91865014.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CNN.png" group-title="USA - News",CNN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/EURONEWS.png" group-title="USA - News",Euronews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/EURONEWS.png" group-title="USA - News",Euronews
 http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/FOXNEWS.png" group-title="USA - News",FOX News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOXNEWS.png" group-title="USA - News",FOX News
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/I24NEWS.png" group-title="USA - News",I 24 NEWS EN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/I24NEWS.png" group-title="USA - News",I 24 NEWS EN
 https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="USA - News",RT AMERICA
 https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/WGNAMERICA.png" group-title="USA - News",WGN America
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/WGNAMERICA.png" group-title="USA - News",WGN America
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
 http://185.59.223.148/sports_sportsnet_nyc/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/ESPN.png" group-title="USA - Sports",ESPN USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ESPN.png" group-title="USA - Sports",ESPN USA
 http://185.246.209.106/sports_espn_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/ESPN.png" group-title="USA - Sports",ESPN USA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ESPN.png" group-title="USA - Sports",ESPN USA HD
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/FS1.png" group-title="USA - Sports",FS1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FS1.png" group-title="USA - Sports",FS1
 http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/FS1.png" group-title="USA - Sports",FS1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FS1.png" group-title="USA - Sports",FS1 HD
 http://mediastream.pro/stream/3261/imran00253/ranmirtufg/
 #EXTINF:-1 tvg-logo="http://www.morethanjustsports.com/Files/2010/11/screen_nflNetwork.png" group-title="USA - Sports",NFL Network HD
 http://mediastream.pro/stream/3274/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/NBATV.png" group-title="USA - Sports",NBA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA
 http://185.246.209.106/sports_nba_tv_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/NBATV.png" group-title="USA - Sports",NBA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA HD
 http://mediastream.pro/stream/45235/imran00253/ranmirtufg/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/MLBNETWORK.png" group-title="USA - Sports",MLB Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/MLBNETWORK.png" group-title="USA - Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/THEGOLFCHANNEL.png" group-title="USA - Sports",The Golf Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEGOLFCHANNEL.png" group-title="USA - Sports",The Golf Channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/FOXDEPORTES.png" group-title="USA - Sports",FOX Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOXDEPORTES.png" group-title="USA - Sports",FOX Deportes
 http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/FOX30.png" group-title="USA",FOX 30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOX30.png" group-title="USA",FOX 30
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/HISTORY.png" group-title="USA",History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/HISTORY.png" group-title="USA",History
 http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/SYFY.png" group-title="USA",Syfy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA",Syfy
 http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/ANIMALPLANET.png" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ANIMALPLANET.png" group-title="USA",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/THEWEATHERCHANNEL.png" group-title="USA",The Weather channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEWEATHERCHANNEL.png" group-title="USA",The Weather channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CSPAN2.png" group-title="USA",C-SPAN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CSPAN2.png" group-title="USA",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/TRAVELCHANNEL.png" group-title="USA",Travel Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TRAVELCHANNEL.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/BLOOMBERGTV.png" group-title="USA",Bloomberg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BLOOMBERGTV.png" group-title="USA",Bloomberg
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/NHKWORLD.png" group-title="USA",NHK World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NHKWORLD.png" group-title="USA",NHK World
 https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/MTVLIVE.png" group-title="USA",MTV Live HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/MTVLIVE.png" group-title="USA",MTV Live HD
 http://91.202.196.122:8000/play/a033/index.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="USA",Investigation Discovery
 http://80.80.160.168/live/5/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/WWENET.png" group-title="USA",WWE NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/WWENET.png" group-title="USA",WWE NETWORK
 http://mediastream.pro/stream/22229/imran00253/ranmirtufg/
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/NBCSPORTS.png" group-title="USA",NBCSN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBCSPORTS.png" group-title="USA",NBCSN
 http://mediastream.pro/stream/3275/imran00253/ranmirtufg/
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/TVE24H.png" group-title="USA",TVE 24H
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TVE24H.png" group-title="USA",TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/GLOBO.png" group-title="USA",Globo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/GLOBO.png" group-title="USA",Globo
 http://187.75.24.98:9981/stream/channelid/551089650
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/RECORDTV.png" group-title="USA",RECORD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/RECORDTV.png" group-title="USA",RECORD
 http://187.75.24.98:9981/stream/channelid/1012331848
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/CGTNAMERICA.png" group-title="USA",CGTN AMERICA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CGTNAMERICA.png" group-title="USA",CGTN AMERICA
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/BBCAMERICA.png" group-title="USA",BBC America
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America
 http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/image/master/BBCAMERICA.png" group-title="USA",BBC America HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America HD
 http://190.13.120.114/streams/bbcamerica.m3u8
