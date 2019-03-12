@@ -1,20 +1,4 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://pngimage.net/wp-content/uploads/2018/05/bonecos-desenho-png-2.png" pltv-name="IPTV EDGAR SILVA" pltv-description="EDGAR CANAIS IPTV" pltv-cover="https://tinyurl.com/yyznzcj6" pltv-author="EDGAR SILVA" pltv-email="@Edgarsilva"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTvyp3sV-5tz-n-f3EBbbsDP5hHmvC3FOaBZ3k7yg4hCwQfMHzI1g3rDpj" group-title="CANAL EDGAR SILVA", EDGAR SILVA
-https://tinyurl.com/y6w6xc7s? app=desktop
-
-#EXTINF:-1 tvg-logo="http://www.trrevista.com.br/uploads/2014/12/grupo-da-solidariedade-angaria-doacoes-pelo-face-1.png" group-title="LISTA VIP", MELHOR LISTA VIP
-https://tinyurl.com/y2a9fdks
-
-#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="NOVOS CANAIS ATUALIZADO", Atualizado 08/03/2019
-https://goo.gl/gRV5Xu
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/bonecos-desenho-png-2.png" group-title="QUE ADIQUERIR SUA LISTA VIP",☎️(32)999954554
-https://tinyurl.com/yy6qlau3
-
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="Nbr.br" tvg-name="NBR SD" tvg-logo="http://static.bladeuhd.com/logos/abertos/nbr.png" group-title="CANAIS ABERTOS",NBR HD
 http://198.255.23.90:25461/JUPITERTV1757/1757/21747?token=T0ddUEdYQFwXTFBQUQBWVFZTUA0SBVMGUVxZUwNMAEoTPAAAAAUUUUNETxcZERFTAl87UVAQCAcHCAFRGBpESlEXalhQElhEBFNVDFNRQRpBRg1VURAIBQAMBF0CAQAKBEkXQV1UQFwXXlUFV0dPFAZKRF1XXFNYalxUE11bVBsOC0BdWBxACVs5B1ALBA1SQQhGCRYeEF1GSBNfFm5YT1tFZh91HkBKFwQKQRQEF1NBCEYBBAsQGBdbXhBaTENAFl8Xc2YSTkRQHhdQCBYKWQ0QXhpAQRAYF1FCOkZdQk1GAFRcUUJAXBdWQRlEJAJOPFELVlpXUUBcV18WFgITCBZJF1xbXgsOWhQ8RQ8BQQxBAVENAhBP
