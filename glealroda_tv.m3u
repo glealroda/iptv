@@ -11,6 +11,8 @@ http://61.216.177.73/sta/ch91865014.m3u8
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/EURONEWS.png" group-title="USA - News",Euronews
 http://164.40.161.46:8002/play/s4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOX30.png" group-title="USA - News",FOX 30
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOXNEWS.png" group-title="USA - News",FOX News
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/I24NEWS.png" group-title="USA - News",i24 News
@@ -31,22 +33,14 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile
 http://185.246.209.106/sports_nba_tv_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
 http://185.59.223.148/sports_sportsnet_nyc/mpegts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOX30.png" group-title="USA",FOX 30
-http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/HISTORY.png" group-title="USA",History
-http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA",Syfy
-http://190.13.120.113/streams/syfy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ANIMALPLANET.png" group-title="USA",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ANIMALPLANET.png" group-title="USA - Varieties“,Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEWEATHERCHANNEL.png" group-title="USA",The Weather channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/CSPAN2.png" group-title="USA",C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TRAVELCHANNEL.png" group-title="USA",Travel Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/HISTORY.png" group-title="USA - Varieties",History
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TRAVELCHANNEL.png" group-title="USA - Varieties",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA - Movies“,Syfy
+http://190.13.120.113/streams/syfy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEWEATHERCHANNEL.png" group-title="USA “,The Weather channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
