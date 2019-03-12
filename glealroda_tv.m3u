@@ -19,20 +19,23 @@ https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5
 https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/WGNAMERICA.png" group-title="USA - News",WGN America
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
-http://185.59.223.148/sports_sportsnet_nyc/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ESPN.png" group-title="USA - Sports",ESPN USA
 http://185.246.209.106/sports_espn_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ESPN.png" group-title="USA - Sports",ESPN USA HD
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FS1.png" group-title="USA - Sports",FS1
 http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA
-http://185.246.209.106/sports_nba_tv_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/MLBNETWORK.png" group-title="USA - Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOXDEPORTES.png" group-title="USA - Sports",FOX Deportes
-http://185.59.223.148/usa_sports_fox_deportes_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NBATV.png" group-title="USA - Sports",NBA
+http://185.246.209.106/sports_nba_tv_hd/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SPORTSNETNY.png" group-title="USA - Sports",SportsNet New York
+http://185.59.223.148/sports_sportsnet_nyc/mpegts
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/FOX30.png" group-title="USA",FOX 30
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/HISTORY.png" group-title="USA",History
@@ -47,15 +50,3 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TRAVELCHANNEL.png" group-title="USA",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BLOOMBERGTV.png" group-title="USA",Bloomberg
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/NHKWORLD.png" group-title="USA",NHK World
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/MTVLIVE.png" group-title="USA",MTV Live HD
-http://91.202.196.122:8000/play/a033/index.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="USA",Investigation Discovery
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America
-http://190.13.120.114/streams/babytv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCAMERICA.png" group-title="USA",BBC America HD
-http://190.13.120.114/streams/bbcamerica.m3u8
