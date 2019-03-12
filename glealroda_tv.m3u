@@ -25,7 +25,7 @@ http://198.255.23.90:25461/GHJNGVYUUTR3458/TRTYGVCSDA87654/37707?token=T0ddUEdYQ
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA - Movies“,Syfy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA_Movies“,Syfy
 http://190.13.120.113/streams/syfy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ABC.png" group-title="USA - News",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
