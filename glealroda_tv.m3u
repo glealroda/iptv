@@ -25,7 +25,8 @@ http://198.255.23.90:25461/GHJNGVYUUTR3458/TRTYGVCSDA87654/37707?token=T0ddUEdYQ
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA - Movies“,Syfy
+http://190.13.120.113/streams/syfy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/ABC.png" group-title="USA - News",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/BBCWORLDNEWS.png" group-title="USA - News",BBC World News
@@ -66,9 +67,8 @@ http://80.80.160.168/live/1/live.m3u8
 http://190.13.120.113/streams/history.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/TRAVELCHANNEL.png" group-title="USA - Varieties",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/SYFY.png" group-title="USA - Movies“,Syfy
-http://190.13.120.113/streams/syfy.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEWEATHERCHANNEL.png" group-title="USA “,The Weather channel
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/THEWEATHERCHANNEL.png" group-title="USA“,The Weather channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
