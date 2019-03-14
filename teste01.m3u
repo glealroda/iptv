@@ -61,29 +61,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 
 
-
-
-########################################################### INFANTIL
-
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="INFANTIL", GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://imgur.com/4CNzXxx.png" group-title="INFANTIL", DISNEY CHANNEL
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL", DISNEY JR
-https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL", DISNEY JR HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
-
-#EXTINF:0 tvg-logo="https://i.upimg.com/UVpdc47CN" group-title="INFANTIL", DISNEY XD
-https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
-
-#EXTINF:0 tvg-logo="https://i.upimg.com/UVpdc47CN" group-title="INFANTIL", DISNEY XD HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8
-
-
 ################################################################################# 
 
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="VARIEDADES", MTV CLIPES 1
@@ -269,52 +246,32 @@ http://d3e1993t7xu9fk.cloudfront.net/viamidia/aovivo/playlist.m3u8
 ****musicas****************************************************************
 
 
-#EXTINF:-1,MUSICA:Heart TV
+#EXTINF:-1,group-title="MUSICA:Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/72OLB7"group-title="MUSICAS",RETRO MUSIC HD 
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICAS",Music Top (ARG)
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",HOT MUSIC 
-http://wow01.105.net/live/rmc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICAS",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?AndreOid
-
-#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="MUSICAS",TV CLIMA
-http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
-
-
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" group-title="MUSICAS",HEARTV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
-#EXTINF:-1,MUSICA:Hit TV (Espana)
+#EXTINF:-1,group-title="MUSICA":Hit TV (Espana)
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 
-#EXTINF:-1,MUSICA:La Mega Mundial (EU)
+#EXTINF:-1,group-title="MUSICA":La Mega Mundial (EU)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
-#EXTINF:-1,MUSICA:Melody Channel (EU)
+#EXTINF:-1,group-title="MUSICA":Melody Channel (EU)
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,MUSICA:Music Top (Argentina)
+#EXTINF:-1,group-title="MUSICA":Music Top (Argentina)
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1,MUSICA:Portal Foxmix (Chile)
+#EXTINF:-1,group-title="MUSICA":Portal Foxmix (Chile)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1,MUSICA:Power HD (Argentina)
+#EXTINF:-1,group-title="MUSICA":Power HD (Argentina)
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1,MUSICA:Soy Rock (Argentina)
+#EXTINF:-1,group-title="MUSICA":Soy Rock (Argentina)
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 
-#EXTINF:-1,MUSICA:Planeta HD | HD
+#EXTINF:-1,group-title="MUSICA":Planeta HD | HD
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1,MUSICA:DJIng Ibiza | HD
+#EXTINF:-1,group-title="MUSICA":DJIng Ibiza | HD
 http://www.djing.com/tv/ibiza.m3u8
 
