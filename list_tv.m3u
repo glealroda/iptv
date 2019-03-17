@@ -217,7 +217,7 @@ http://80.80.160.168/live/1/live.m3u8
 http://190.13.120.113/streams/history.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/travelchannel.png",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 group-title="US - " tvg-name="Bein Sports" tvg-logo="",Bein Sports
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Bein Sports" tvg-logo="",Bein Sports
 http://m-iptv.net:6204/marcell/123/10646
 #EXTINF:-1 group-title="US - Esportes" tvg-name="TSN 3 HD" tvg-logo="",TSN 3 HD
 http://m-iptv.net:6204/marcell/123/10634
@@ -251,8 +251,12 @@ http://m-iptv.net:6204/marcell/123/10397
 http://m-iptv.net:6204/marcell/123/10396
 #EXTINF:-1 group-title="US - Esportes" tvg-name="CBS Sport HD" tvg-logo="",CBS Sport HD
 http://m-iptv.net:6204/marcell/123/10433
+#EXTINF:-1 group-title="US - Filmes" tvg-name="HBO Comedy HD" tvg-logo="",HBO Comedy HD
+http://m-iptv.net:6204/marcell/123/10411
 #EXTINF:-1 group-title="US - Filmes" tvg-name="HBO Signature" tvg-logo="",HBO Signature
 http://m-iptv.net:6204/marcell/123/10410
+#EXTINF:-1 group-title="US - Filmes" tvg-name="HBO HD" tvg-logo="",HBO HD
+http://m-iptv.net:6204/marcell/123/10409
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
 http://m-iptv.net:6204/marcell/123/10439
 #EXTINF:-1 group-title="US - Variedades" tvg-name="BET HD" tvg-logo="",BET HD
@@ -262,7 +266,9 @@ http://m-iptv.net:6204/marcell/123/10435
 #EXTINF:-1 group-title="US - Filmes" tvg-name="CINEMAX HD" tvg-logo="",CINEMAX HD
 http://m-iptv.net:6204/marcell/123/10431
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox sport 1 HD" tvg-logo="",Fox sport 1 HD
-http://m-iptv.net:6204/marcell/123/10416
+http://m-iptv.net:6204/live/marcell/123/10416.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox sport 2 HD" tvg-logo="",Fox sport 2 HD
+http://m-iptv.net:6204/marcell/123/10415
 #EXTINF:-1 group-title="US - Filmes" tvg-name="FX HD" tvg-logo="",FX HD
 http://m-iptv.net:6204/marcell/123/10414
 #EXTINF:-1 group-title="US - Variedades" tvg-name="GSN HD" tvg-logo="",GSN HD
@@ -281,6 +287,8 @@ http://m-iptv.net:6204/marcell/123/10398
 http://m-iptv.net:6204/marcell/123/10395
 #EXTINF:-1 group-title="US - Filmes" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="",SHOWTIME FAMILY ZONE
 http://m-iptv.net:6204/marcell/123/10393
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Syfy HD" tvg-logo="",Syfy HD
+http://m-iptv.net:6204/marcell/123/10388
 #EXTINF:-1 group-title="US - Variedades" tvg-name="TLC HD" tvg-logo="",TLC HD
 http://m-iptv.net:6204/marcell/123/10385
 #EXTINF:-1 group-title="US - Variedades" tvg-name="TRU TV HD" tvg-logo="",TRU TV HD
