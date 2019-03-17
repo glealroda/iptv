@@ -217,3 +217,137 @@ http://80.80.160.168/live/1/live.m3u8
 http://190.13.120.113/streams/history.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/travelchannel.png",Travel Channel
 http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 group-title="US - " tvg-name="Bein Sports" tvg-logo="",Bein Sports
+http://m-iptv.net:6204/marcell/123/10646
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="TSN 1 HD" tvg-logo="",TSN 1 HD
+http://m-iptv.net:6204/marcell/123/10636
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="TSN 2 HD" tvg-logo="",TSN 2 HD
+http://m-iptv.net:6204/marcell/123/10635
+#EXTINF:-1 group-title="US - Esportes" tvg-name="TSN 3 HD" tvg-logo="",TSN 3 HD
+http://m-iptv.net:6204/marcell/123/10634
+#EXTINF:-1 group-title="US - Esportes" tvg-name="TSN 4 HD" tvg-logo="",TSN 4 HD
+http://m-iptv.net:6204/marcell/123/10633
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="TSN 5 HD" tvg-logo="",TSN 5 HD
+http://m-iptv.net:6204/marcell/123/10632
+#EXTINF:-1 group-title="US - Esportes" tvg-name="PAC-12 Arizona HD" tvg-logo="",PAC-12 Arizona HD
+http://m-iptv.net:6204/marcell/123/10642
+#EXTINF:-1 group-title="US - Esportes" tvg-name="PAC-12 Bay Area HD" tvg-logo="",PAC-12 Bay Area HD
+http://m-iptv.net:6204/marcell/123/10641
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="PAC-12 Los Angeles HD" tvg-logo="",PAC-12 Los Angeles HD
+http://m-iptv.net:6204/marcell/123/10640
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="PAC-12 Mountain HD" tvg-logo="",PAC-12 Mountain HD
+http://m-iptv.net:6204/marcell/123/10639
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="PAC-12 Oregon HD" tvg-logo="",PAC-12 Oregon HD
+http://m-iptv.net:6204/marcell/123/10638
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="A&E" tvg-logo="",A&E
+http://m-iptv.net:6204/marcell/123/10441
+#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC WCVB (Boston)" tvg-logo="",ABC WCVB (Boston)
+http://m-iptv.net:6204/marcell/123/10440
+#EXTINF:-1 group-title="US - Noticias" tvg-name="CNBC" tvg-logo="",CNBC
+http://m-iptv.net:6204/marcell/123/10429
+#EXTINF:-1 group-title="US - Noticias" tvg-name="CNN HD" tvg-logo="",CNN HD
+http://m-iptv.net:6204/marcell/123/10428
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="MTV HD" tvg-logo="",MTV HD
+http://m-iptv.net:6204/marcell/123/10403
+#EXTINF:-1 group-title="US - Filmes" tvg-name="Starz HD" tvg-logo="",Starz HD
+http://m-iptv.net:6204/marcell/123/10390
+#EXTINF:-1 group-title="US - Variedades" tvg-name="SyFy HD" tvg-logo="",SyFy HD
+http://m-iptv.net:6204/marcell/123/10387
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="TBS" tvg-logo="",TBS
+http://m-iptv.net:6204/marcell/123/10386
+#EXTINF:-1 group-title="US - Filmes" tvg-name="TNT" tvg-logo="",TNT
+http://m-iptv.net:6204/marcell/123/10384
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="VH1 HD" tvg-logo="",VH1 HD
+http://m-iptv.net:6204/marcell/123/10380
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="History HD" tvg-logo="",History HD
+http://m-iptv.net:6204/marcell/123/10405
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Nat Geo Wild HD" tvg-logo="",Nat Geo Wild HD
+http://m-iptv.net:6204/marcell/123/10402
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="NatGeo HD" tvg-logo="",NatGeo HD
+http://m-iptv.net:6204/marcell/123/10401
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Channel HD" tvg-logo="",Discovery Channel HD
+http://m-iptv.net:6204/marcell/123/10424
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Discovery Science HD" tvg-logo="",Discovery Science HD
+http://m-iptv.net:6204/marcell/123/10421
+#EXTINF:-1 group-title="US - Noticias" tvg-name="Bloomberg" tvg-logo="",Bloomberg
+http://m-iptv.net:6204/marcell/123/10436
+#EXTINF:-1 group-title="US - Infantil" tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
+http://m-iptv.net:6204/marcell/123/10434
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Disney Channel" tvg-logo="",Disney Channel
+http://m-iptv.net:6204/marcell/123/10420
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Disney Junior" tvg-logo="",Disney Junior
+http://m-iptv.net:6204/marcell/123/10419
+#EXTINF:-1 group-title="US - Infantil" tvg-name="Nick Junior" tvg-logo="",Nick Junior
+http://m-iptv.net:6204/marcell/123/10397
+#EXTINF:-1 group-title="US - Infantil" tvg-name="Nick Toons" tvg-logo="",Nick Toons
+http://m-iptv.net:6204/marcell/123/10396
+#EXTINF:-1 group-title="US - Esportes" tvg-name="CBS Sport HD" tvg-logo="",CBS Sport HD
+http://m-iptv.net:6204/marcell/123/10433
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="CBS" tvg-logo="",CBS
+http://m-iptv.net:6204/marcell/123/10432
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="HBO Comedy HD" tvg-logo="",HBO Comedy HD
+http://m-iptv.net:6204/marcell/123/10411
+#EXTINF:-1 group-title="US - Filmes" tvg-name="HBO Signature" tvg-logo="",HBO Signature
+http://m-iptv.net:6204/marcell/123/10410
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="HBO HD" tvg-logo="",HBO HD
+http://m-iptv.net:6204/marcell/123/10409
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="HBO ZONE HD" tvg-logo="",HBO ZONE HD
+http://m-iptv.net:6204/marcell/123/10408
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
+http://m-iptv.net:6204/marcell/123/10439
+#EXTINF:-1 group-title="US - Variedades" tvg-name="BET HD" tvg-logo="",BET HD
+http://m-iptv.net:6204/marcell/123/10645
+#EXTINF:-1 group-title="US - Filmes" tvg-name="Bravo HD" tvg-logo="",Bravo HD
+http://m-iptv.net:6204/marcell/123/10435
+#EXTINF:-1 group-title="US - Filmes" tvg-name="CINEMAX HD" tvg-logo="",CINEMAX HD
+http://m-iptv.net:6204/marcell/123/10431
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="DISCOVERY FAMILY" tvg-logo="",DISCOVERY FAMILY
+http://m-iptv.net:6204/marcell/123/10423
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Discovery Investigation" tvg-logo="",Discovery Investigation
+http://m-iptv.net:6204/marcell/123/10422
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox sport 1 HD" tvg-logo="",Fox sport 1 HD
+http://m-iptv.net:6204/marcell/123/10416
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Fox sport 2 HD" tvg-logo="",Fox sport 2 HD
+http://m-iptv.net:6204/marcell/123/10415
+#EXTINF:-1 group-title="US - Filmes" tvg-name="FX HD" tvg-logo="",FX HD
+http://m-iptv.net:6204/marcell/123/10414
+#EXTINF:-1 group-title="US - Variedades" tvg-name="GSN HD" tvg-logo="",GSN HD
+http://m-iptv.net:6204/marcell/123/10412
+#EXTINF:-1 group-title="US - Variedades" tvg-name="HGTV HD" tvg-logo="",HGTV HD
+http://m-iptv.net:6204/marcell/123/10407
+#EXTINF:-1 group-title="US - Variedades" tvg-name="History" tvg-logo="",History
+http://m-iptv.net:6204/marcell/123/10406
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Life Time HD" tvg-logo="",Life Time HD
+http://m-iptv.net:6204/marcell/123/10404
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA HD" tvg-logo="",NBA HD
+http://m-iptv.net:6204/marcell/123/10400
+#EXTINF:-1 group-title="US - Noticias" tvg-name="NBC EAST HD" tvg-logo="",NBC EAST HD
+http://m-iptv.net:6204/marcell/123/10399
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBCSN HD" tvg-logo="",NBCSN HD
+http://m-iptv.net:6204/marcell/123/10398
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="NEWS 12" tvg-logo="",NEWS 12
+http://m-iptv.net:6204/marcell/123/10643
+#EXTINF:-1 group-title="US - Variedades" tvg-name="OWN HD" tvg-logo="",OWN HD
+http://m-iptv.net:6204/marcell/123/10395
+#EXTINF:-1 group-title="US - Filmes" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="",SHOWTIME FAMILY ZONE
+http://m-iptv.net:6204/marcell/123/10393
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="SLICE HD" tvg-logo="",SLICE HD
+http://m-iptv.net:6204/marcell/123/10392
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Syfy HD" tvg-logo="",Syfy HD
+http://m-iptv.net:6204/marcell/123/10388
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="STARZ KIDS & Family HD" tvg-logo="",STARZ KIDS & Family HD
+http://m-iptv.net:6204/marcell/123/10389
+#EXTINF:-1 group-title="US - Variedades" tvg-name="TLC HD" tvg-logo="",TLC HD
+http://m-iptv.net:6204/marcell/123/10385
+#EXTINF:-1 group-title="US - Variedades" tvg-name="TRU TV HD" tvg-logo="",TRU TV HD
+http://m-iptv.net:6204/marcell/123/10383
+#EXTINF:-1 group-title="US - Filmes" tvg-name="TV Land HD" tvg-logo="",TV Land HD
+http://m-iptv.net:6204/marcell/123/10382
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Viceland TV" tvg-logo="",Viceland TV
+http://m-iptv.net:6204/marcell/123/10379
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="WE HD" tvg-logo="",WE HD
+http://m-iptv.net:6204/marcell/123/10378
+#EXTINF:-1 group-title="US - Sem sinal" tvg-name="Weather channel" tvg-logo="",Weather channel
+http://m-iptv.net:6204/marcell/123/10377
+#EXTINF:-1 group-title="US - Esportes" tvg-name="WWE HD" tvg-logo="",WWE HD
+http://m-iptv.net:6204/marcell/123/10376
