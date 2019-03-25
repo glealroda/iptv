@@ -25,7 +25,7 @@ http://iptv-line.com:6969/glealroda1/groda3833/29296
 http://iptv-line.com:6969/glealroda1/groda3833/29291
 #EXTINF:-1 group-title="AR - Argentina" tvg-name="ARG: TV PUBLICA - AR - Classificar Qualidade" tvg-logo="" tvg-id="" ,ARG: TV PUBLICA - AR - Classificar Qualidade
 http://iptv-line.com:6969/glealroda1/groda3833/29287
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Aparecida - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Aparceida.png" tvg-id="" ,Aparecida - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Aparecida - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Aparceida.png" tvg-id="Tv Aparecida" ,Aparecida - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/8084
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="BBB - BR - FHD" tvg-logo="" tvg-id="" ,BBB - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33432
@@ -115,7 +115,7 @@ http://iptv-line.com:6969/glealroda1/groda3833/5328
 http://iptv-line.com:6969/glealroda1/groda3833/17062
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN  HD [Brazil]" ,ESPN HD - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/5327
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="" ,ESPN plus - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN+ HD" ,ESPN plus - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/5326
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports - BR - FHD" tvg-logo="" tvg-id="Fox Sports [Brazil]" ,FOX Sports - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33422
@@ -133,27 +133,27 @@ http://iptv-line.com:6969/glealroda1/groda3833/17041
 http://iptv-line.com:6969/glealroda1/groda3833/18918
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="PFC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/pfc_pt.png" tvg-id="Premiere Clubes [Brazil]" ,PFC - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/7339
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - FHD" tvg-logo="" tvg-id="Premiere 2" ,Premiere 2 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33411
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - SD" tvg-logo="" tvg-id="" ,Premiere 2 - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - SD" tvg-logo="" tvg-id="Premiere 2" ,Premiere 2 - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7338
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 3 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="Premiere 3" ,Premiere 3 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/7337
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 3 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="Premiere 3" ,Premiere 3 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33410
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 4 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/7336
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 4 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33409
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - SD" tvg-logo="" tvg-id="" ,Premiere 4 - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - SD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/17037
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 5 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - FHD" tvg-logo="" tvg-id="Premiere 5" ,Premiere 5 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33408
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 6 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - FHD" tvg-logo="" tvg-id="Premiere 6" ,Premiere 6 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33377
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - FHD" tvg-logo="" tvg-id="" ,Premiere 7 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - FHD" tvg-logo="" tvg-id="Premiere 7" ,Premiere 7 - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33376
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - HD" tvg-logo="" tvg-id="" ,Premiere 7 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - HD" tvg-logo="" tvg-id="Premiere 7" ,Premiere 7 - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/17516
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - FHD" tvg-logo="" tvg-id="Premiere Clubes [Brazil]" ,Premiere Clubes - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/17035
@@ -239,17 +239,17 @@ http://iptv-line.com:6969/glealroda1/groda3833/17526
 http://iptv-line.com:6969/glealroda1/groda3833/17045
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Signature - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" tvg-id="HBO Signature [Brazil]" ,HBO Signature - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7348
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="" ,Mais Globosat - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="Mais Globosat HD" ,Mais Globosat - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/7921
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="" ,Mais Globosat - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="Mais Globosat HD" ,Mais Globosat - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/17523
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxtv.png" tvg-id="Max [Brazil]" ,Max - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7346
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="Max Prime [Brazil]" ,Max Prime - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7345
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="" ,Max Prime - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="Max Prime" ,Max Prime - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7332
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/PrimeBox.png" tvg-id="" ,Max Prime - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/PrimeBox.png" tvg-id="Max Prime" ,Max Prime - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/17514
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Up - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxUp.png" tvg-id="Max Up HD [Brazil]" ,Max Up - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/7344
@@ -423,9 +423,9 @@ http://iptv-line.com:6969/glealroda1/groda3833/33428
 http://iptv-line.com:6969/glealroda1/groda3833/17065
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" tvg-id="Discovery Turbo [Brazil]" ,Discovery Turbo - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7362
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World - BR - FHD" tvg-logo="" tvg-id="" ,Discovery World - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World - BR - FHD" tvg-logo="" tvg-id="Discovery world HD" ,Discovery World - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33427
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" tvg-id="" ,Discovery World HD - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" tvg-id="Discovery world HD" ,Discovery World HD - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/17064
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="E! - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" tvg-id="E! Entertainment Television [Brazil]" ,E! - BR - FHD
 http://iptv-line.com:6969/glealroda1/groda3833/33389
@@ -433,9 +433,9 @@ http://iptv-line.com:6969/glealroda1/groda3833/33389
 http://iptv-line.com:6969/glealroda1/groda3833/7359
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Eimax 1 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Eimax.png" tvg-id="EI Maxx HD [Brazil]" ,Eimax 1 - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7929
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Fish TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FishTV.png" tvg-id="" ,Fish TV - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Fish TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FishTV.png" tvg-id="FISH TV" ,Fish TV - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/7924
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Food Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" tvg-id="" ,Food Network - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Food Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" tvg-id="FOOD NETWORK HD" ,Food Network - BR - SD
 http://iptv-line.com:6969/glealroda1/groda3833/17527
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="GNT - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNT.png" tvg-id="GNT [Brazil]" ,GNT - BR - HD
 http://iptv-line.com:6969/glealroda1/groda3833/17051
