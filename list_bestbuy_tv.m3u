@@ -1435,10 +1435,12 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/8587.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/7919.m3u8
 #EXTINF:-1 group-title="US - Infantil" tvg-name="Disney XD - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxdhd.png" tvg-id="disneyxd.us" ,Disney XD - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/8586.m3u8
-#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC News - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ABCNEWSHD.png" tvg-id="" ,ABC News - US - HD
-http://iptv-line.com:6969/live/glealroda1/groda3833/135.m3u8
-#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC News - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/abc.png" tvg-id="abc.us" ,ABC News - US - HD
+#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 7 - Los Angeles - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/abc7.png" tvg-id="ABC (KABC) Los Angeles, CA" ,ABC 7 - Los Angeles - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/136.m3u8
+#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 7 - Los Angeles - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/abc7.png" tvg-id="ABC (KABC) Los Angeles, CA" ,ABC 7 - Los Angeles - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/8607.m3u8
+#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC News - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/ABCNEWSHD.png" tvg-id="Verificar" ,ABC News - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/135.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC News Channel 9 - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="FOX 43 US" ,ABC News Channel 9 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/4008.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC News Channel 9 - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="fxx.us" ,ABC News Channel 9 - US - HD
@@ -1915,8 +1917,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/3486.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/1095.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="National Geographic - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryfamilyHD.png" tvg-id="discoveryfamily.us" ,National Geographic - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/8590.m3u8
-#EXTINF:-1 group-title="US - Verificar" tvg-name="ABC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/abc.png" tvg-id="ABC.us" ,ABC - US - HD
-http://iptv-line.com:6969/live/glealroda1/groda3833/136.m3u8
 #EXTINF:-1 group-title="US - Verificar" tvg-name="CBS - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cbs.png" tvg-id="cbs.us" ,CBS - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/8601.m3u8
 #EXTINF:-1 group-title="US - Verificar" tvg-name="COZI TV - US - HD" tvg-logo="" tvg-id="" ,COZI TV - US - HD
