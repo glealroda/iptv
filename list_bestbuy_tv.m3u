@@ -1467,6 +1467,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/8576.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/127.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="Fox News - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxbusiness.png" tvg-id="foxbusiness.us" ,Fox News - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/17000.m3u8
+#EXTINF:-1 group-title="US - Noticias" tvg-name="NBC Bay Area - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/nbcbayarea.png" tvg-id="" ,NBC Bay Area - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/26824.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="AFN Spectrum - US - Classificar Qualidade" tvg-logo="" tvg-id="afnspectrum.us" ,AFN Spectrum - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3833/31551.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="AMC HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" tvg-id="amc.us" ,AMC HD - US - Classificar Qualidade
@@ -1927,7 +1929,5 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/32571.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/8588.m3u8
 #EXTINF:-1 group-title="US - Verificar" tvg-name="Fox 8 - US - HD" tvg-logo="" tvg-id="Fox Sports New Orleans" ,Fox 8 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/32004.m3u8
-#EXTINF:-1 group-title="US - Verificar" tvg-name="NBCSN Bay Area - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/NBCSNBayArea.png" tvg-id="" ,NBCSN Bay Area - US - HD
-http://iptv-line.com:6969/live/glealroda1/groda3833/26824.m3u8
 #EXTINF:-1 group-title="Verificar - Esportes" tvg-name="CDF - Verificar - SD" tvg-logo="" tvg-id="" ,CDF - Verificar - SD
 http://iptv-line.com:6969/live/glealroda1/groda3833/8079.m3u8
