@@ -413,8 +413,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/16943.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/26723.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Global FHD - CA - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/global.png" tvg-id="global.ca" ,CA: Global FHD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3833/8610.m3u8
-#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: HGTV  local - CA - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.ca" ,CA: HGTV  local - CA - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3833/16940.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: History  local - CA - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="historia.ca" ,CA: History  local - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3833/16939.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: HISTORY HD - CA - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" tvg-id="historia.ca" ,CA: HISTORY HD - CA - Classificar Qualidade
@@ -589,6 +587,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/17967.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/16954.m3u8
 #EXTINF:-1 group-title="CA - Variedades" tvg-name="Discovery Science - CA - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" tvg-id="discoveryscience.ca" ,Discovery Science - CA - SD
 http://iptv-line.com:6969/live/glealroda1/groda3833/16953.m3u8
+#EXTINF:-1 group-title="CA - Variedades" tvg-name="HGTV - CA - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.ca" ,HGTV - CA - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/16940.m3u8
 #EXTINF:-1 group-title="CA - Verificar" tvg-name="CBS NEWS - CA - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cbs.png" tvg-id="cbssports.ca" ,CBS NEWS - CA - SD
 http://iptv-line.com:6969/live/glealroda1/groda3833/17732.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="TVI - PT - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="" ,TVI - PT - SD
@@ -1607,10 +1607,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/33028.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/8568.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="HBO East - US - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/HBOEast.png" tvg-id="HBO East US" ,HBO East - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3833/2456.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="HGTV HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.us" ,HGTV HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3833/5794.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="HGTV HD 1080 - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.us" ,HGTV HD 1080 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3833/11773.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="HIFI - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/hifi.png" tvg-id="HIFI US" ,HIFI - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3833/1105.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="HISTORY HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/historyhd.png" tvg-id="historychannel.us" ,HISTORY HD - US - Classificar Qualidade
@@ -1909,6 +1905,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3833/8577.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3833/8575.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Fox Now 19 - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="FOX.us" ,Fox Now 19 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3833/6965.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="HGTV - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.us" ,HGTV - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/5794.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="HGTV - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.us" ,HGTV - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3833/11773.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Investigation Discovery - US - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" tvg-id="investigationdiscovery.us" ,Investigation Discovery - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3833/31391.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Investigation Discovery - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" tvg-id="investigationdiscovery.us" ,Investigation Discovery - US - HD
