@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbc.png" tvg-id="cnbc.us" ,CNBC - US - HD
-http://iptv-line.com:6969/live/glealroda1/groda3833/14883.m3u8
+http://iptv-line.com:6969/live/glealroda1/groda3834/14883.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.us" ,Travel Channel - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8535.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.us" ,Travel Channel - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/17867.m3u8
