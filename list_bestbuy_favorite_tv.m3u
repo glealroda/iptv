@@ -19,7 +19,7 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/142.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7982.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="CNN - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CNNUSHD.png" tvg-id="cnn.us" ,CNN - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7254.m3u8
-#EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGNNewsChicag.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - HD
+#EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGN9NEWS.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7151.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGN9NEWS.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17861.m3u8
@@ -27,9 +27,9 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/17861.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/14883.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Cooking Channel - US - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cookingchannel.png" tvg-id="cookingchannel.us" ,Cooking Channel - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8593.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="" tvg-id="discoverylife.us" ,Discovery Life - US - HD
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/discoverylife.jpeg" tvg-id="discoverylife.us" ,Discovery Life - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31508.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="" tvg-id="discoverylife.us" ,Discovery Life - US - HD
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/discoverylife.jpeg" tvg-id="discoverylife.us" ,Discovery Life - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33024.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Food Network - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" tvg-id="foodnetwork.us" ,Food Network - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1079.m3u8
