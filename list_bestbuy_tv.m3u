@@ -1375,7 +1375,7 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/127.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17000.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="Pix 11 - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/pix11.jpeg" tvg-id="Verificar" ,Pix 11 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/140.m3u8
-#EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGNNewsChicag.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - HD
+#EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGN9NEWS.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7151.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WGN9NEWS.png" tvg-id="wgn9chicago.us" ,WGN 9 - Chicago - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17861.m3u8
@@ -1635,8 +1635,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8536.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7146.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="The Weather Channel - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/theweatherChannel.png" tvg-id="The Weather Channel" ,The Weather Channel - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26870.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="TLC HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlchd.png" tvg-id="tlc.us" ,TLC HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/86.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="TNT HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" tvg-id="tnt.us" ,TNT HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/122.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Toon Kids - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/ToonKids.png" tvg-id="" ,Toon Kids - US - Classificar Qualidade
@@ -1687,7 +1685,7 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/132.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8605.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbc.png" tvg-id="cnbc.us" ,CNBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/3246.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbchd.png" tvg-id="cnbc.us" ,CNBC - US - HD
+#EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbc.png" tvg-id="cnbc.us" ,CNBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/11545.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cnbc.png" tvg-id="cnbc.us" ,CNBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/14883.m3u8
@@ -1703,9 +1701,9 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/139.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7917.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Family - US - HD" tvg-logo="" tvg-id="Discovery Family Channel" ,Discovery Family - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33025.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="" tvg-id="discoverylife.us" ,Discovery Life - US - HD
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/discoverylife.jpeg" tvg-id="discoverylife.us" ,Discovery Life - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31508.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life HD - US - HD" tvg-logo="" tvg-id="discoverylife.us" ,Discovery Life HD - US - HD
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Life - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/discoverylife.jpeg" tvg-id="discoverylife.us" ,Discovery Life - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33024.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Science - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverysciencehd.png" tvg-id="discoveryscience.us" ,Discovery Science - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1080.m3u8
@@ -1761,6 +1759,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/29331.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/29330.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo San francisco - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/telemundo.jpeg" tvg-id="" ,Telemundo San francisco - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/29329.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="TLC - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlchd.png" tvg-id="tlc.us" ,TLC - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/86.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.us" ,Travel Channel - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8535.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel - US - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.us" ,Travel Channel - US - HD
