@@ -1,479 +1,479 @@
 #EXTM3U
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Aparecida - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Aparceida.png" tvg-id="Tv Aparecida" ,Aparecida - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Aparecida - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Aparceida.png" tvg-id="TV Aparecida HD" ,Aparecida - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8084.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="BR: Band FHD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Band Rede [Brazil]" ,BR: Band FHD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="BR: Band FHD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Band HD" ,BR: Band FHD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/33435.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Brazil 2 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Brazil2.png" tvg-id="Canal Brasil [Brazil]" ,Brazil 2 - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Brazil 2 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Brazil2.png" tvg-id="" ,Brazil 2 - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5277.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Canal Brasil - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalBrasil.png" tvg-id="Canal Brasil [Brazil]" ,Canal Brasil - BR - FHD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Canal Brasil - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalBrasil.png" tvg-id="Canal Brasil HD" ,Canal Brasil - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33390.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Canal Brasil - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalBrasil.png" tvg-id="Canal Brasil [Brazil]" ,Canal Brasil - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Canal Brasil - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalBrasil.png" tvg-id="Canal Brasil HD" ,Canal Brasil - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7367.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Canal DO TV - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/canald.png" tvg-id="" ,Canal DO TV - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8063.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Cançao Nova - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cancaonova.png" tvg-id="Canção Nova [Brazil]" ,Cançao Nova - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Cançao Nova - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cancaonova.png" tvg-id="Canção Nova HD" ,Cançao Nova - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8083.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="FUTURA - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FUTURA.png" tvg-id="Futura [Brazil]" ,FUTURA - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="FUTURA - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FUTURA.png" tvg-id="Futura HD" ,FUTURA - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8059.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Globo Premium - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboPremium.png" tvg-id="" ,Globo Premium - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7355.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Globo RJ - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboRJHD.png" tvg-id="Globo - RJ [Brazil]" ,Globo RJ - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Globo RJ - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboRJHD.png" tvg-id="Globo Rio HD" ,Globo RJ - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17052.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Globo SP - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboSP.png" tvg-id="Globo - SP [Brazil]" ,Globo SP - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Globo SP - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboSP.png" tvg-id="Globo São Paulo HD" ,Globo SP - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7842.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="MANA SAT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MANASAT.png" tvg-id="" ,MANA SAT - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8081.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Novo Tempo - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/NovoTempo.png" tvg-id="Novo Tempo" ,Novo Tempo - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Novo Tempo - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/NovoTempo.png" tvg-id="" ,Novo Tempo - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8052.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="RBS TV Porto Alegre - BR - Classificar Qualidade" tvg-logo="" tvg-id="" ,RBS TV Porto Alegre - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="RBS TV Porto Alegre - BR - Classificar Qualidade" tvg-logo="" tvg-id="RBS TV Porto Alegre HD" ,RBS TV Porto Alegre - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17512.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordtv.png" tvg-id="Record [Brazil]" ,Record - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordtv.png" tvg-id="Record TV HD" ,Record - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17034.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/RecordSp.png" tvg-id="Record [Brazil]" ,Record - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/RecordSp.png" tvg-id="Record TV HD" ,Record - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17511.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordnews_pt.png" tvg-id="Record News [Brazil]" ,Record News - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordnews_pt.png" tvg-id="Record News HD" ,Record News - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7926.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="REDE GOSPEL - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/REDEGOSPEL.png" tvg-id="" ,REDE GOSPEL - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5291.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Rede TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/REDETV.png" tvg-id="Rede TV [Brazil]" ,Rede TV - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Rede TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/REDETV.png" tvg-id="RedeTV! HD" ,Rede TV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5290.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT [Brazil]" ,SBT - BR - FHD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT HD" ,SBT - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17033.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT [Brazil]" ,SBT - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT HD" ,SBT - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8070.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT [Brazil]" ,SBT - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="SBT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/SBT.png" tvg-id="SBT HD" ,SBT - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7928.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVBrasil.png" tvg-id="TV Brasil [Brazil]" ,TV Brasil - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVBrasil.png" tvg-id="TV Brasil HD" ,TV Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7317.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario - BR - SD" tvg-logo="" tvg-id="" ,TV Diario - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario - BR - SD" tvg-logo="" tvg-id="TV Diário HD" ,TV Diario - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8078.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVDiario.png" tvg-id="" ,TV Diario Brasil - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVDiario.png" tvg-id="TV Diário HD" ,TV Diario Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5311.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV GAZETA - BR - HD" tvg-logo="" tvg-id="TV Gazeta [Brazil]" ,TV GAZETA - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV GAZETA - BR - HD" tvg-logo="" tvg-id="TV Gazeta HD" ,TV GAZETA - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8069.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Globo - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="TV Globo [Brazil]" ,TV Globo - BR - HD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Globo - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="" ,TV Globo - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5309.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Globo Premium - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="" ,TV Globo Premium - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5310.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Record - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordtv.png" tvg-id="" ,TV Record - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5308.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVBRASILCENTRAL.png" tvg-id="" ,TVE - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVBRASILCENTRAL.png" tvg-id="TVE" ,TVE - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8088.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE HD 720 Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tve720.png" tvg-id="" ,TVE HD 720 Brasil - BR - SD
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE HD 720 Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tve720.png" tvg-id="TVE" ,TVE HD 720 Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5281.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Vem e Ve TV - BR - SD" tvg-logo="" tvg-id="" ,Vem e Ve TV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8075.m3u8
-#EXTINF:-1 group-title="BR - Brazil" tvg-name="Rede Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/Rede.png" tvg-id="" ,Rede Brasil - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Brazil" tvg-name="Rede Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/Rede.png" tvg-id="Rede Brasil HD" ,Rede Brasil - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17510.m3u8
-#EXTINF:-1 group-title="BR - Brazil" tvg-name="TNT Séries HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tntseriehd.png" tvg-id="TNT Séries [Brazil]" ,TNT Séries HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Brazil" tvg-name="TNT Séries HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tntseriehd.png" tvg-id="TNT Series HD" ,TNT Séries HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17022.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDSPORTS.png" tvg-id="Band Sports [Brazil]" ,Band Sports - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDSPORTS.png" tvg-id="BandSports HD" ,Band Sports - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5678.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbofamily.png" tvg-id="Band Sports [Brazil]" ,Band Sports - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbofamily.png" tvg-id="BandSports HD" ,Band Sports - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17048.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDSPORTS.png" tvg-id="Band Sports [Brazil]" ,Band Sports - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDSPORTS.png" tvg-id="BandSports HD" ,Band Sports - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33433.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Combate - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Combate.png" tvg-id="Combate [Brazil]" ,Combate - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Combate - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Combate.png" tvg-id="Combate HD" ,Combate - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7302.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Combate - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CombateHD.png" tvg-id="Combate [Brazil]" ,Combate - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Combate - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CombateHD.png" tvg-id="Combate HD" ,Combate - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17069.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN  HD [Brazil]" ,ESPN - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN HD" ,ESPN - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33387.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN [Brazil]" ,ESPN - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN HD" ,ESPN - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7357.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN  HD [Brazil]" ,ESPN - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN HD" ,ESPN - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17063.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="" ,ESPN 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="ESPN-1" ,ESPN 2 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7331.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" tvg-id="" ,ESPN 2 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" tvg-id="ESPN-1" ,ESPN 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33425.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegapixHD.png" tvg-id="ESPN Brasil [Brazil]" ,ESPN Brasil - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegapixHD.png" tvg-id="ESPN Brasil" ,ESPN Brasil - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17042.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN Brasil [Brazil]" ,ESPN Brasil - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN Brasil" ,ESPN Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5328.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN Brasil [Brazil]" ,ESPN Brasil - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN Brasil" ,ESPN Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17062.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN  HD [Brazil]" ,ESPN HD - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN HD" ,ESPN HD - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5327.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN+ HD" ,ESPN plus - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" tvg-id="ESPN +" ,ESPN plus - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5326.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo 2 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/EsporteInterativohd.png" tvg-id="Esporte Interativo Max 2 HD [Brazil]" ,Esporte Interativo 2 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo 2 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/EsporteInterativohd.png" tvg-id="Esporte Interativo 2 HD" ,Esporte Interativo 2 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17061.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/EsporteInterativohd.png" tvg-id="Esporte Interativo [Brazil]" ,Esporte Interativo HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/EsporteInterativohd.png" tvg-id="Esporte Interativo HD" ,Esporte Interativo HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17059.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports - BR - FHD" tvg-logo="" tvg-id="Fox Sports [Brazil]" ,FOX Sports - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports - BR - FHD" tvg-logo="" tvg-id="FOX Sports HD" ,FOX Sports - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33422.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports 1 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" tvg-id="Fox Sports [Brazil]" ,FOX Sports 1 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports 1 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports1.png" tvg-id="FOX Sports HD" ,FOX Sports 1 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5322.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Fox Sports 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" tvg-id="Fox Sports 2 [Brazil]" ,Fox Sports 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Fox Sports 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" tvg-id="FOX Sports 2 HD" ,Fox Sports 2 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33421.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Fox Sports 2 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" tvg-id="Fox Sports 2 [Brazil]" ,Fox Sports 2 - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Fox Sports 2 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports2.png" tvg-id="FOX Sports 2 HD" ,Fox Sports 2 - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5320.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="OFF HD [Brazil]" ,Off - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="Off HD" ,Off - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8051.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="OFF HD [Brazil]" ,Off - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="Off HD" ,Off - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17041.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="OFF HD [Brazil]" ,Off - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Off - BR - HD" tvg-logo="" tvg-id="Off HD" ,Off - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/18918.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="PFC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/pfc_pt.png" tvg-id="Premiere Clubes [Brazil]" ,PFC - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="PFC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/pfc_pt.png" tvg-id="Premiere FC HD" ,PFC - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7339.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - FHD" tvg-logo="" tvg-id="Premiere 2" ,Premiere 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - FHD" tvg-logo="" tvg-id="PREMIERE HD 2" ,Premiere 2 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33411.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - SD" tvg-logo="" tvg-id="Premiere 2" ,Premiere 2 - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 - BR - SD" tvg-logo="" tvg-id="PREMIERE HD 2" ,Premiere 2 - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7338.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 2" ,Premiere 2 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 2 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="PREMIERE HD 2" ,Premiere 2 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17039.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="Premiere 3" ,Premiere 3 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="PREMIERE 3 HD" ,Premiere 3 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7337.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="Premiere 3" ,Premiere 3 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 - BR - FHD" tvg-logo="" tvg-id="PREMIERE 3 HD" ,Premiere 3 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33410.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 3" ,Premiere 3 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 3 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="PREMIERE 3 HD" ,Premiere 3 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17038.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere HD 4" ,Premiere 4 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7336.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - FHD" tvg-logo="" tvg-id="Premiere HD 4" ,Premiere 4 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33409.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - SD" tvg-logo="" tvg-id="Premiere 4" ,Premiere 4 - BR - SD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 4 - BR - SD" tvg-logo="" tvg-id="Premiere HD 4" ,Premiere 4 - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17037.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 5" ,Premiere 5 - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere HD 5" ,Premiere 5 - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7335.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - FHD" tvg-logo="" tvg-id="Premiere 5" ,Premiere 5 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 - BR - FHD" tvg-logo="" tvg-id="Premiere HD 5" ,Premiere 5 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33408.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 5" ,Premiere 5 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 5 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere HD 5" ,Premiere 5 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17036.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 6" ,Premiere 6 - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 6 HD" ,Premiere 6 - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17517.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - FHD" tvg-logo="" tvg-id="Premiere 6" ,Premiere 6 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 6 - BR - FHD" tvg-logo="" tvg-id="Premiere 6 HD" ,Premiere 6 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33377.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - FHD" tvg-logo="" tvg-id="Premiere 7" ,Premiere 7 - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - FHD" tvg-logo="" tvg-id="Premiere 7 HD" ,Premiere 7 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33376.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - HD" tvg-logo="" tvg-id="Premiere 7" ,Premiere 7 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 7 - BR - HD" tvg-logo="" tvg-id="Premiere 7 HD" ,Premiere 7 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17516.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 8 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 8" ,Premiere 8 - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 8 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 8 HD" ,Premiere 8 - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17515.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - FHD" tvg-logo="" tvg-id="Premiere Clubes [Brazil]" ,Premiere Clubes - BR - FHD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - FHD" tvg-logo="" tvg-id="Premiere Clubes HD" ,Premiere Clubes - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17035.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - HD" tvg-logo="" tvg-id="Premiere Clubes [Brazil]" ,Premiere Clubes - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - HD" tvg-logo="" tvg-id="Premiere Clubes HD" ,Premiere Clubes - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7333.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="SPORT TV 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV 2 [Brazil]" ,SPORT TV 2 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="SPORT TV 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV2 HD" ,SPORT TV 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5318.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV 2 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV 2 [Brazil]" ,Sport TV 2 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV 2 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV2 HD" ,Sport TV 2 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17031.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV 3 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="SporTV 3 [Brazil]" ,Sport TV 3 HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV 3 HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="SporTV3 HD" ,Sport TV 3 HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17030.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="SporTV [Brazil]" ,Sport TV HD - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Sport TV HD - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="SporTV HD" ,Sport TV HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17029.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="SporTV 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV 2 [Brazil]" ,SporTV 2 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="SporTV 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="SporTV2 HD" ,SporTV 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7330.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="SporTV 3 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="SporTV 3 [Brazil]" ,SporTV 3 - BR - HD
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="SporTV 3 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="SporTV3 HD" ,SporTV 3 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7329.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="A&E - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/aande.png" tvg-id="A&amp;E [Brazil]" ,A&E - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="A&E - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/aande.png" tvg-id="A&amp;E HD" ,A&E - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33439.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="AMC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/amchd.png" tvg-id="AMC [Brazil]" ,AMC - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="AMC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/amchd.png" tvg-id="AMC HD" ,AMC - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31549.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Arte 1 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/arte.png" tvg-id="Arte 1 [Brazil]" ,Arte 1 - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Arte 1 - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/arte.png" tvg-id="Arte 1 HD" ,Arte 1 - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8056.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="AXN - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axn.png" tvg-id="AXN HD [Brazil]" ,AXN - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="AXN - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axn.png" tvg-id="AXN HD" ,AXN - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33436.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="AXN - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" tvg-id="AXN HD [Brazil]" ,AXN - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="AXN - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" tvg-id="AXN HD" ,AXN - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17070.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Cinemax - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemax.png" tvg-id="Cinemax [Brazil]" ,Cinemax - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Cinemax - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemax.png" tvg-id="Cinemax" ,Cinemax - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5679.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Disney Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" tvg-id="Disney Channel [Brazil]" ,Disney Channel - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Disney Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" tvg-id="Disney HD" ,Disney Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33373.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Disney Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" tvg-id="Disney Channel [Brazil]" ,Disney Channel - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Disney Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" tvg-id="Disney HD" ,Disney Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17531.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox [Brazil]" ,Fox Channel - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox HD" ,Fox Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33384.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox [Brazil]" ,Fox Channel - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox HD" ,Fox Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5687.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox Life [Brazil]" ,Fox Channel - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fox.png" tvg-id="Fox HD" ,Fox Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31901.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="Fox [Brazil]" ,Fox Channel - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="Fox HD" ,Fox Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17058.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports.png" tvg-id="Fox Sports [Brazil]" ,Fox Channel - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxsports.png" tvg-id="Fox HD" ,Fox Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17054.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Life - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlife.png" tvg-id="Fox Life [Brazil]" ,Fox Life - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Life - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlife.png" tvg-id="Fox Life HD" ,Fox Life - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7356.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Life - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" tvg-id="Fox Life [Brazil]" ,Fox Life - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Life - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" tvg-id="Fox Life HD" ,Fox Life - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17057.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="FOX Premium 1 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="" ,FOX Premium 1 - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="FOX Premium 1 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="FOX Premium 1 HD" ,FOX Premium 1 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33424.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Premium 1 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="" ,Fox Premium 1 - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Premium 1 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="FOX Premium 1 HD" ,Fox Premium 1 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17056.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="FOX Premium 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="" ,FOX Premium 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="FOX Premium 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="FOX Premium 2 HD" ,FOX Premium 2 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33423.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Premium 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="" ,Fox Premium 2 - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Premium 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FOXPremiumHD.png" tvg-id="FOX Premium 2 HD" ,Fox Premium 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17055.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX [Brazil]" ,FX - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX HD" ,FX - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33383.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX [Brazil]" ,FX - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX HD" ,FX - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17053.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX [Brazil]" ,FX - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="FX - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/fx.png" tvg-id="FX HD" ,FX - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7925.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO [Brazil]" ,HBO - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO HD" ,HBO - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5685.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO Plus [Brazil]" ,HBO - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO HD" ,HBO - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7349.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO [Brazil]" ,HBO - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO HD" ,HBO - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17047.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" tvg-id="HBO 2 [Brazil]" ,HBO 2 - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" tvg-id="HBO 2 HD" ,HBO 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5686.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" tvg-id="HBO 2 [Brazil]" ,HBO 2 - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo2.png" tvg-id="HBO 2 HD" ,HBO 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17049.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Family - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbofamily.png" tvg-id="HBO Family [Brazil]" ,HBO Family - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Family - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbofamily.png" tvg-id="HBO Family HD" ,HBO Family - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7350.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO Plus [Brazil]" ,HBO Plus - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO Plus HD" ,HBO Plus - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17046.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO Plus *e [Brazil]" ,HBO Plus - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Plus - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbo.png" tvg-id="HBO Plus HD" ,HBO Plus - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17526.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Signature - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" tvg-id="HBO Signature [Brazil]" ,HBO Signature - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Signature - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" tvg-id="HBO Signature HD" ,HBO Signature - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17045.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Signature - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" tvg-id="HBO Signature [Brazil]" ,HBO Signature - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="HBO Signature - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hbosignature.png" tvg-id="HBO Signature HD" ,HBO Signature - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7348.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="Mais Globosat HD" ,Mais Globosat - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="+ Globosat" ,Mais Globosat - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7921.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="Mais Globosat HD" ,Mais Globosat - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MaisGlobosatHD.png" tvg-id="+ Globosat" ,Mais Globosat - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17523.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxtv.png" tvg-id="Max [Brazil]" ,Max - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxtv.png" tvg-id="Max-1" ,Max - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7346.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="Max Prime [Brazil]" ,Max Prime - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="Max Prime" ,Max Prime - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7345.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxPrime.png" tvg-id="Max Prime" ,Max Prime - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7332.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/PrimeBox.png" tvg-id="Max Prime" ,Max Prime - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17514.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Up - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxUp.png" tvg-id="Max Up HD [Brazil]" ,Max Up - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Up - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/maxUp.png" tvg-id="Max Up" ,Max Up - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7344.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Megapix - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegaPix.png" tvg-id="Megapix HD [Brazil]" ,Megapix - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Megapix - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegaPix.png" tvg-id="Megapix HD" ,Megapix - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33416.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Megapix - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegaPix.png" tvg-id="Megapix [Brazil]" ,Megapix - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Megapix - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MegaPix.png" tvg-id="Megapix HD" ,Megapix - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8054.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/paramountchannelhd.png" tvg-id="Paramount Channel [Brazil]" ,Paramount - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/paramountchannelhd.png" tvg-id="Paramount Channel HD" ,Paramount - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17040.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/paramountchannel.png" tvg-id="Paramount Channel [Brazil]" ,Paramount - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/paramountchannel.png" tvg-id="Paramount Channel HD" ,Paramount - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33412.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Sony - BR - FHD" tvg-logo="" tvg-id="Sony [Brazil]" ,Sony - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Sony - BR - FHD" tvg-logo="" tvg-id="Sony HD" ,Sony - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33431.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="Space HD [Brazil]" ,Space - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="Space HD" ,Space - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33405.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="SPACE [Brazil]" ,Space - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="Space HD" ,Space - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8058.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="Space HD [Brazil]" ,Space - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Space - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/space.png" tvg-id="Space HD" ,Space - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17032.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Studio Universal - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/studiouniversal.png" tvg-id="Studio Universal [Brazil]" ,Studio Universal - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Studio Universal - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/studiouniversal.png" tvg-id="Studio Universal HD" ,Studio Universal - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7922.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Syfy - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" tvg-id="SyFy [Brazil]" ,Syfy - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Syfy - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" tvg-id="Syfy HD" ,Syfy - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8050.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS [Brazil]" ,TBS - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS HD" ,TBS - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8066.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS [Brazil]" ,TBS - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS HD" ,TBS - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17028.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TCM - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tcm.png" tvg-id="TCM - Turner Classic Movies [Brazil]" ,TCM - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TCM - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tcm.png" tvg-id="TCM" ,TCM - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7320.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/CANALESCOLA.png" tvg-id="" ,Telecine - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7923.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Action [Brazil]" ,Telecine Action - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Action HD" ,Telecine Action - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31880.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - SD" tvg-logo="" tvg-id="Telecine Action [Brazil]" ,Telecine Action - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - SD" tvg-logo="" tvg-id="Telecine Action HD" ,Telecine Action - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7326.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - SD" tvg-logo="" tvg-id="Telecine Action [Brazil]" ,Telecine Action - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - SD" tvg-logo="" tvg-id="Telecine Action HD" ,Telecine Action - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17027.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Cult - BR - FHD" tvg-logo="" tvg-id="Telecine Cult [Brazil]" ,Telecine Cult - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Cult - BR - FHD" tvg-logo="" tvg-id="Telecine Cult HD" ,Telecine Cult - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33401.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Cult - BR - HD" tvg-logo="" tvg-id="Telecine Cult [Brazil]" ,Telecine Cult - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Cult - BR - HD" tvg-logo="" tvg-id="Telecine Cult HD" ,Telecine Cult - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7325.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Fun [Brazil]" ,Telecine Fun - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Fun HD" ,Telecine Fun - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31879.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - HD" tvg-logo="" tvg-id="Telecine Fun [Brazil]" ,Telecine Fun - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - HD" tvg-logo="" tvg-id="Telecine Fun HD" ,Telecine Fun - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7324.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - SD" tvg-logo="" tvg-id="Telecine Fun [Brazil]" ,Telecine Fun - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Fun - BR - SD" tvg-logo="" tvg-id="Telecine Fun HD" ,Telecine Fun - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17026.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Pipoca [Brazil]" ,Telecine Pipoca - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Pipoca HD" ,Telecine Pipoca - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31878.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - FHD" tvg-logo="" tvg-id="Telecine Pipoca [Brazil]" ,Telecine Pipoca - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - FHD" tvg-logo="" tvg-id="Telecine Pipoca HD" ,Telecine Pipoca - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33400.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - SD" tvg-logo="" tvg-id="Telecine Pipoca [Brazil]" ,Telecine Pipoca - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - SD" tvg-logo="" tvg-id="Telecine Pipoca HD" ,Telecine Pipoca - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7323.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - SD" tvg-logo="" tvg-id="Telecine Pipoca [Brazil]" ,Telecine Pipoca - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Pipoca - BR - SD" tvg-logo="" tvg-id="Telecine Pipoca HD" ,Telecine Pipoca - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17025.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Premium [Brazil]" ,Telecine Premium - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Premium HD" ,Telecine Premium - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31877.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - HD" tvg-logo="" tvg-id="Telecine Premium [Brazil]" ,Telecine Premium - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - HD" tvg-logo="" tvg-id="Telecine Premium HD" ,Telecine Premium - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7322.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - SD" tvg-logo="" tvg-id="Telecine Premium [Brazil]" ,Telecine Premium - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Premium - BR - SD" tvg-logo="" tvg-id="Telecine Premium HD" ,Telecine Premium - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17024.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Touch - BR - FHD" tvg-logo="" tvg-id="Telecine Touch [Brazil]" ,Telecine Touch - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Touch - BR - FHD" tvg-logo="" tvg-id="Telecine Touch HD" ,Telecine Touch - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33399.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Touch - BR - HD" tvg-logo="" tvg-id="Telecine Touch [Brazil]" ,Telecine Touch - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Touch - BR - HD" tvg-logo="" tvg-id="Telecine Touch HD" ,Telecine Touch - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7321.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" tvg-id="TNT HD [Brazil]" ,TNT - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" tvg-id="TNT HD" ,TNT - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33398.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" tvg-id="TNT HD [Brazil]" ,TNT - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" tvg-id="TNT HD" ,TNT - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17023.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT Series - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tntserie.png" tvg-id="TNT Séries [Brazil]" ,TNT Series - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT Series - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tntserie.png" tvg-id="TNT Series HD" ,TNT Series - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7318.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT Séries - BR - FHD" tvg-logo="" tvg-id="TNT Séries [Brazil]" ,TNT Séries - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TNT Séries - BR - FHD" tvg-logo="" tvg-id="TNT Series HD" ,TNT Séries - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33397.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Brasil - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannel.png" tvg-id="" ,Universal Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8064.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannelhd.png" tvg-id="Universal Channel [Brazil]" ,Universal Channel - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannelhd.png" tvg-id="" ,Universal Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17021.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannel.png" tvg-id="Universal Channel [Brazil]" ,Universal Channel - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/universalchannel.png" tvg-id="" ,Universal Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17498.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Viva - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/viva.png" tvg-id="Viva [Brazil]" ,Viva - BR - SD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Viva - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/viva.png" tvg-id="Viva HD" ,Viva - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7316.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNER.png" tvg-id="Warner Channel [Brazil]" ,Warner Channel - BR - FHD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNER.png" tvg-id="Warner Channel HD" ,Warner Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33393.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNER.png" tvg-id="Warner Channel [Brazil]" ,Warner Channel - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WARNER.png" tvg-id="Warner Channel HD" ,Warner Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5697.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WarnerChannel.png" tvg-id="Warner Channel [Brazil]" ,Warner Channel - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WarnerChannel.png" tvg-id="Warner Channel HD" ,Warner Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17020.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WarnerChannel.png" tvg-id="Warner Channel [Brazil]" ,Warner Channel - BR - HD
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Warner Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/WarnerChannel.png" tvg-id="Warner Channel HD" ,Warner Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17497.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Baby TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" tvg-id="Baby TV [Brazil]" ,Baby TV - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Baby TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" tvg-id="BABY TV" ,Baby TV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17535.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Boomerang - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" tvg-id="Boomerang [Brazil]" ,Boomerang - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Boomerang - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/boomerang.png" tvg-id="Boomerang HD" ,Boomerang - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7368.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Cartoon Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" tvg-id="Cartoon Network [Brazil]" ,Cartoon Network - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Cartoon Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" tvg-id="Cartoon Network Brazil HD" ,Cartoon Network - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8062.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Discovery Kids - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverykidsllam.png" tvg-id="Discovery Kids [Brazil]" ,Discovery Kids - BR - FHD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Discovery Kids - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverykidsllam.png" tvg-id="Discovery Kids HD" ,Discovery Kids - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17533.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney Channel [Brazil]" ,Disney - BR - HD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney HD" ,Disney - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7361.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney Junior [Brazil]" ,Disney Junior - BR - FHD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney Junior Brazil HD" ,Disney Junior - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33426.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjr.png" tvg-id="Disney Junior [Brazil]" ,Disney Junior - BR - HD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjr.png" tvg-id="Disney Junior Brazil HD" ,Disney Junior - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7360.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" tvg-id="Disney Junior [Brazil]" ,Disney Junior - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyjunior.png" tvg-id="Disney Junior Brazil HD" ,Disney Junior - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17530.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney XD [Brazil]" ,Disney XD - BR - FHD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disney.png" tvg-id="Disney XD" ,Disney XD - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33372.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" tvg-id="Disney XD [Brazil]" ,Disney XD - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" tvg-id="Disney XD" ,Disney XD - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17529.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD Brasil - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" tvg-id="Disney XD [Brazil]" ,Disney XD Brasil - BR - HD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney XD Brasil - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneyxd.png" tvg-id="Disney XD" ,Disney XD Brasil - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8061.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Gloob - BR - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/gloob.png" tvg-id="Gloob [Brazil]" ,Gloob - BR - HD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Gloob - BR - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/gloob.png" tvg-id="Gloob HD" ,Gloob - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8072.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Gloob - BR - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/gloob.png" tvg-id="Gloob [Brazil]" ,Gloob - BR - HD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Gloob - BR - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/gloob.png" tvg-id="Gloob HD" ,Gloob - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7353.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="Nickelodeon [Brazil]" ,Nick - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="Nick HD" ,Nick - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7341.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="Nickelodeon [Brazil]" ,Nick - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="Nick HD" ,Nick - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17519.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick Jr - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" tvg-id="Nick Jr. [Brazil]" ,Nick Jr - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Nick Jr - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickjr.png" tvg-id="Nick Jr. HD" ,Nick Jr - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8071.m3u8
-#EXTINF:-1 group-title="BR - Infantil" tvg-name="Tooncast - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Tooncast.png" tvg-id="Tooncast [Brazil]" ,Tooncast - BR - SD
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Tooncast - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Tooncast.png" tvg-id="Tooncast" ,Tooncast - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8065.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="BIS - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BIS.png" tvg-id="Bis HD [Brazil]" ,BIS - BR - HD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="BIS - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BIS.png" tvg-id="BIS HD" ,BIS - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8055.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="MTV - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" tvg-id="MTV [Brazil]" ,MTV - BR - FHD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="MTV - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" tvg-id="MTV Brasil" ,MTV - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33414.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="MTV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" tvg-id="MTV [Brazil]" ,MTV - BR - SD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="MTV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" tvg-id="MTV Brasil" ,MTV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5689.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="Music Box Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MusicBox.png" tvg-id="Music Box Brazil" ,Music Box Brasil - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="Music Box Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MusicBox.png" tvg-id="Music Box Brasil HD" ,Music Box Brasil - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8053.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 - BR - FHD" tvg-logo="" tvg-id="Vh1 HD [Brazil]" ,VH1 - BR - FHD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 - BR - FHD" tvg-logo="" tvg-id="VH1 HD" ,VH1 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33374.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 - BR - FHD" tvg-logo="" tvg-id="VH1 Mega Hits [Brazil]" ,VH1 - BR - FHD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 - BR - FHD" tvg-logo="" tvg-id="VH1 HD" ,VH1 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33395.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 Mega Hits - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/vh1.png" tvg-id="VH1 Mega Hits [Brazil]" ,VH1 Mega Hits - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="VH1 Mega Hits - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/vh1.png" tvg-id="VH 1 Megahits Brazil" ,VH1 Mega Hits - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8087.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Woohoo.png" tvg-id="Woohoo [Brazil]" ,Woohoo - BR - SD
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Woohoo.png" tvg-id="WooHoo HD" ,Woohoo - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17496.m3u8
-#EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/Woohoo.png" tvg-id="Woohoo [Brazil]" ,Woohoo Brasil - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo Brasil - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/Woohoo.png" tvg-id="WooHoo HD" ,Woohoo Brasil - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8057.m3u8
-#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BAND.png" tvg-id="Band News [Brazil]" ,Band News - BR - FHD
+#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BAND.png" tvg-id="Bandnews HD" ,Band News - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33434.m3u8
-#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboNews.png" tvg-id="Band News [Brazil]" ,Band News - BR - HD
+#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GloboNews.png" tvg-id="Bandnews HD" ,Band News - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7303.m3u8
-#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDNEWS.png" tvg-id="Band News [Brazil]" ,Band News - BR - SD
+#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BANDNEWS.png" tvg-id="Bandnews HD" ,Band News - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5677.m3u8
-#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BAND.png" tvg-id="Band News [Brazil]" ,Band News - BR - SD
+#EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/BAND.png" tvg-id="Bandnews HD" ,Band News - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5676.m3u8
-#EXTINF:-1 group-title="BR - Noticias" tvg-name="Globo News - BR - FHD" tvg-logo="" tvg-id="Globo News [Brazil]" ,Globo News - BR - FHD
+#EXTINF:-1 group-title="BR - Noticias" tvg-name="Globo News - BR - FHD" tvg-logo="" tvg-id="Globo News HD" ,Globo News - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33419.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" tvg-id="Animal Planet [Brazil]" ,Animal Planet - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" tvg-id="Animal Planet HD" ,Animal Planet - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33438.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" tvg-id="Animal Planet [Brazil]" ,Animal Planet - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanet.png" tvg-id="Animal Planet HD" ,Animal Planet - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5674.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanethd.png" tvg-id="Animal Planet [Brazil]" ,Animal Planet - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Animal Planet - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/animalplanethd.png" tvg-id="Animal Planet HD" ,Animal Planet - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17071.m3u8
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Canal Sony - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalSony.png" tvg-id="" ,Canal Sony - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7366.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Comedy Central - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" tvg-id="Comedy Central [Brazil]" ,Comedy Central - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Comedy Central - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" tvg-id="Comedy Central HD" ,Comedy Central - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33430.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Comedy Central - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" tvg-id="Comedy Central [Brazil]" ,Comedy Central - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Comedy Central - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/comedycentral.png" tvg-id="Comedy Central HD" ,Comedy Central - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17534.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" tvg-id="Discovery Channel [Brazil]" ,Discovery Channel - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discovery.png" tvg-id="Discovery HD" ,Discovery Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5681.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannelhd.png" tvg-id="Discovery Channel [Brazil]" ,Discovery Channel - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannelhd.png" tvg-id="Discovery HD" ,Discovery Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17068.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Civilization - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverycivillam.png" tvg-id="Discovery Civilization [Brazil]" ,Discovery Civilization - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Civilization - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverycivillam.png" tvg-id="Discovery Civilization HD" ,Discovery Civilization - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7364.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health [Brazil]" ,Discovery Home & Health - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health HD" ,Discovery Home & Health - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33392.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health [Brazil]" ,Discovery Home & Health - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health HD" ,Discovery Home & Health - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17067.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health [Brazil]" ,Discovery Home & Health - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health HD" ,Discovery Home & Health - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8074.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health [Brazil]" ,Discovery Home & Health - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Home & Health - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryhomeandhealth.png" tvg-id="Discovery Home &amp; Health HD" ,Discovery Home & Health - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17532.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Science - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" tvg-id="Discovery Science [Brazil]" ,Discovery Science - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Science - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryscience.png" tvg-id="Discovery Sciene HD" ,Discovery Science - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7363.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Theater - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryTheaterhd.png" tvg-id="Discovery HD Theater [Brazil]" ,Discovery Theater - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Theater - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryTheaterhd.png" tvg-id="Discovery HD Theater" ,Discovery Theater - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33429.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Theater - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryTheaterhd.png" tvg-id="Discovery HD Theater [Brazil]" ,Discovery Theater - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Theater - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryTheaterhd.png" tvg-id="Discovery HD Theater" ,Discovery Theater - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17066.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" tvg-id="Discovery Turbo [Brazil]" ,Discovery Turbo - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" tvg-id="Discovery Turbo HD" ,Discovery Turbo - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33428.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" tvg-id="Discovery Turbo [Brazil]" ,Discovery Turbo - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryturbo.png" tvg-id="Discovery Turbo HD" ,Discovery Turbo - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17065.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World - BR - FHD" tvg-logo="" tvg-id="Discovery world HD" ,Discovery World - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World - BR - FHD" tvg-logo="" tvg-id="Discovery World HD" ,Discovery World - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33427.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" tvg-id="Discovery world HD" ,Discovery World HD - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World HD - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryworld.png" tvg-id="Discovery World HD" ,Discovery World HD - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17064.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="E! - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" tvg-id="E! Entertainment Television [Brazil]" ,E! - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="E! - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/e.png" tvg-id="E! HD" ,E! - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33389.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="E! - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" tvg-id="E! Entertainment Television [Brazil]" ,E! - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="E! - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" tvg-id="E! HD" ,E! - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7359.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Fish TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FishTV.png" tvg-id="FISH TV" ,Fish TV - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Fish TV - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/FishTV.png" tvg-id="FishTV" ,Fish TV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7924.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Food Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" tvg-id="FOOD NETWORK HD" ,Food Network - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Food Network - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/foodnetwork.png" tvg-id="Food Network HD Brasil" ,Food Network - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17527.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="GNT - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNT.png" tvg-id="GNT [Brazil]" ,GNT - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="GNT - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNT.png" tvg-id="GNT HD" ,GNT - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17051.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="GNT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNT.png" tvg-id="GNT [Brazil]" ,GNT - BR - SD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="GNT - BR - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/GNT.png" tvg-id="GNT HD" ,GNT - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7352.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="History Channel [Brazil]" ,History Channel - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="HISTORY CHANNEL HD" ,History Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7319.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="History Channel HD [Brazil]" ,History Channel - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="HISTORY CHANNEL HD" ,History Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33417.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="History Channel HD [Brazil]" ,History Channel - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/history.png" tvg-id="HISTORY CHANNEL HD" ,History Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17044.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 [Brazil]" ,History Channel 2 - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 HD" ,History Channel 2 - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7351.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 HD [Brazil]" ,History Channel 2 - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 HD" ,History Channel 2 - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33418.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 HD [Brazil]" ,History Channel 2 - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="History Channel 2 - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/h2canada.png" tvg-id="H2 HD" ,History Channel 2 - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17050.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Investigation Discovery - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" tvg-id="Investigação Discovery [Brazil]" ,Investigation Discovery - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Investigation Discovery - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscovery.png" tvg-id="Investigação Discovery HD" ,Investigation Discovery - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7347.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Investigation Discovery - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscoveryhd.png" tvg-id="Investigação Discovery [Brazil]" ,Investigation Discovery - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Investigation Discovery - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/investigationdiscoveryhd.png" tvg-id="Investigação Discovery HD" ,Investigation Discovery - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17043.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Lifetime - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" tvg-id="Lifetime [Brazil]" ,Lifetime - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Lifetime - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/lifetime.png" tvg-id="Lifetime HD" ,Lifetime - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17524.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Multishow - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Multishow.png" tvg-id="Multishow [Brazil]" ,Multishow - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Multishow - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/Multishow.png" tvg-id="Multishow HD" ,Multishow - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7343.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="Nat Geo Brasil - BR - FHD" tvg-logo="" tvg-id="Nat Geo Wild HD [Brazil]" ,Nat Geo Brasil - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Nat Geo Brasil - BR - FHD" tvg-logo="" tvg-id="NatGeo Wild HD" ,Nat Geo Brasil - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33382.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="National Geographic - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" tvg-id="National Geographic [Brazil]" ,National Geographic - BR - Classificar Qualidade
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="National Geographic - BR - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" tvg-id="National Geographic HD" ,National Geographic - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7342.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="TBS - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS [Brazil]" ,TBS - BR - FHD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="TBS - BR - FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tbs.png" tvg-id="TBS HD" ,TBS - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33375.m3u8
-#EXTINF:-1 group-title="BR - Variedades" tvg-name="TLC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" tvg-id="TLC [Brazil]" ,TLC - BR - HD
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="TLC - BR - HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" tvg-id="TLC HD" ,TLC - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5694.m3u8
-#EXTINF:-1 group-title="BR - Verificar" tvg-name="I-SAT - BR - SD" tvg-logo="" tvg-id="i-Sat [Brazil]" ,I-SAT - BR - SD
+#EXTINF:-1 group-title="BR - Verificar" tvg-name="I-SAT - BR - SD" tvg-logo="" tvg-id="I.SAT" ,I-SAT - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17525.m3u8
 #EXTINF:-1 group-title="BR - Verificar" tvg-name="TV GERAL - BR - SD" tvg-logo="" tvg-id="" ,TV GERAL - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8067.m3u8
@@ -927,312 +927,300 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/16953.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17942.m3u8
 #EXTINF:-1 group-title="CA - Variedades" tvg-name="HGTV - CA - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/hgtv.png" tvg-id="hgtv.ca" ,HGTV - CA - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16940.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT:  Fox Crime -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrime.png" tvg-id="foxcrime.pt" ,PT:  Fox Crime -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT:  Fox Crime - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrime.png" tvg-id="foxcrime.pt" ,PT:  Fox Crime - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4303.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT:  Historia -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/historia.png" tvg-id="historia.pt" ,PT:  Historia -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT:  Historia - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/historia.png" tvg-id="historia.pt" ,PT:  Historia - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4302.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: 24 KITCHEN -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/24kitchen.png" tvg-id="24kitchen.pt" ,PT: 24 KITCHEN -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: 24 KITCHEN - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/24kitchen.png" tvg-id="24kitchen.pt" ,PT: 24 KITCHEN - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3983.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: A & E -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/aande.png" tvg-id="aande.pt" ,PT: A & E -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: A & E - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/aande.png" tvg-id="aande.pt" ,PT: A & E - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3982.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: A BOLA TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/abolatv.png" tvg-id="abolatv.pt" ,PT: A BOLA TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: A BOLA TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/abolatv.png" tvg-id="abolatv.pt" ,PT: A BOLA TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3981.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Abola TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/abolatv.png" tvg-id="abolatv.pt" ,PT: Abola TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Abola TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/abolatv.png" tvg-id="abolatv.pt" ,PT: Abola TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26868.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Afro Music -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/afromusic_pt.png" tvg-id="afromusicchannel.pt" ,PT: Afro Music -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Afro Music - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/afromusic_pt.png" tvg-id="afromusicchannel.pt" ,PT: Afro Music - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26601.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AMC -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" tvg-id="amc.pt" ,PT: AMC -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AMC - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/amc.png" tvg-id="amc.pt" ,PT: AMC - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3980.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AMC HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/amchd.png" tvg-id="amc.pt" ,PT: AMC HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AMC HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/amchd.png" tvg-id="amc.pt" ,PT: AMC HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7034.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ARTV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/ARTV.png" tvg-id="artv.pt" ,PT: ARTV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ARTV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/ARTV.png" tvg-id="artv.pt" ,PT: ARTV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17079.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AXN -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axn.png" tvg-id="axn.pt" ,PT: AXN -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AXN - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axn.png" tvg-id="axn.pt" ,PT: AXN - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3985.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AXN BLACK HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnblack.png" tvg-id="axnblack.pt" ,PT: AXN BLACK HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AXN BLACK HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnblack.png" tvg-id="axnblack.pt" ,PT: AXN BLACK HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7031.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AXN HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" tvg-id="axn.pt" ,PT: AXN HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AXN HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnhd.png" tvg-id="axn.pt" ,PT: AXN HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7033.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AXN WHITE -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnwhite.png" tvg-id="axnwhite.pt" ,PT: AXN WHITE -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AXN WHITE - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnwhite.png" tvg-id="axnwhite.pt" ,PT: AXN WHITE - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3984.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: AXN WHITE HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnwhitehd.png" tvg-id="axnwhite.pt" ,PT: AXN WHITE HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AXN WHITE HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/axnwhitehd.png" tvg-id="axnwhite.pt" ,PT: AXN WHITE HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7032.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Baby First -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/babyfirst.png" tvg-id="babyfirsttv.pt" ,PT: Baby First -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Baby First - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/babyfirst.png" tvg-id="babyfirsttv.pt" ,PT: Baby First - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19204.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: BABY TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" tvg-id="babytv.pt" ,PT: BABY TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: BABY TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/babytv.png" tvg-id="babytv.pt" ,PT: BABY TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3979.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: BENFICA TV 1 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BENFICATV.png" tvg-id="benficatv1.pt" ,PT: BENFICA TV 1 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: BENFICA TV 1 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BENFICATV.png" tvg-id="benficatv1.pt" ,PT: BENFICA TV 1 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3944.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Benfica TV 1 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BenficaTV1.png" tvg-id="benficatv1.pt" ,PT: Benfica TV 1 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Benfica TV 1 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BenficaTV1.png" tvg-id="benficatv1.pt" ,PT: Benfica TV 1 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16731.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: BENFICA TV 2 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BENFICATV.png" tvg-id="" ,PT: BENFICA TV 2 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: BENFICA TV 2 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BENFICATV.png" tvg-id="" ,PT: BENFICA TV 2 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3943.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: BTV 1 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BTV1HD.png" tvg-id="Benfica TV 1 HD PT" ,PT: BTV 1 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: BTV 1 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BTV1HD.png" tvg-id="Benfica TV 1 HD PT" ,PT: BTV 1 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7039.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CAÇA & PESCA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cacaepesca.png" tvg-id="cacaepesca.pt" ,PT: CAÇA & PESCA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CAÇA & PESCA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cacaepesca.png" tvg-id="cacaepesca.pt" ,PT: CAÇA & PESCA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3978.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CAçAVISION -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CAAVISION.png" tvg-id="cacavision.pt" ,PT: CAçAVISION -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CAçAVISION - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CAAVISION.png" tvg-id="cacavision.pt" ,PT: CAçAVISION - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17491.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CANAL HISTÓRIA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CANALHISTORIA.png" tvg-id="" ,PT: CANAL HISTÓRIA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL HISTÓRIA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CANALHISTORIA.png" tvg-id="" ,PT: CANAL HISTÓRIA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3977.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CANAL PANDA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalpanda.png" tvg-id="Canal Panda PT" ,PT: CANAL PANDA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL PANDA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/canalpanda.png" tvg-id="Canal Panda PT" ,PT: CANAL PANDA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3976.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CANAL Q -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CANALQ.png" tvg-id="canalq.pt" ,PT: CANAL Q -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL Q - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CANALQ.png" tvg-id="canalq.pt" ,PT: CANAL Q - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3975.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CARTOON  NETWORK -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" tvg-id="cartoonnetwork.pt" ,PT: CARTOON  NETWORK -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CARTOON  NETWORK - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cartoonnetwork.png" tvg-id="cartoonnetwork.pt" ,PT: CARTOON  NETWORK - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4301.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CBS REALITY -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cbsreality.png" tvg-id="cbsreality.pt" ,PT: CBS REALITY -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CBS REALITY - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cbsreality.png" tvg-id="cbsreality.pt" ,PT: CBS REALITY - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4300.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CINEMUNDO -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemundopt.png" tvg-id="cinemundo.pt" ,PT: CINEMUNDO -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CINEMUNDO - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/cinemundopt.png" tvg-id="cinemundo.pt" ,PT: CINEMUNDO - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3972.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: CM TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CMTV.png" tvg-id="cmtv.pt" ,PT: CM TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CM TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/CMTV.png" tvg-id="cmtv.pt" ,PT: CM TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3971.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: DISCOVERY CHANNEL -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" tvg-id="discoverychannel.pt" ,PT: DISCOVERY CHANNEL -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISCOVERY CHANNEL - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoverychannel.png" tvg-id="discoverychannel.pt" ,PT: DISCOVERY CHANNEL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3970.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: DISCOVERY HD 1080 SHOWCASE -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryshowcasehd.png" tvg-id="discoveryshowcase.pt" ,PT: DISCOVERY HD 1080 SHOWCASE -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISCOVERY HD 1080 SHOWCASE - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/discoveryshowcasehd.png" tvg-id="discoveryshowcase.pt" ,PT: DISCOVERY HD 1080 SHOWCASE - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7722.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Discovery HD Showcase -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/DiscoveryHDShowcase.png" tvg-id="discoveryshowcase.pt" ,PT: Discovery HD Showcase -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Discovery HD Showcase - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/DiscoveryHDShowcase.png" tvg-id="discoveryshowcase.pt" ,PT: Discovery HD Showcase - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3969.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: DISNEY CHANNEL -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" tvg-id="disneychannel.pt" ,PT: DISNEY CHANNEL -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISNEY CHANNEL - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/disneychannel.png" tvg-id="disneychannel.pt" ,PT: DISNEY CHANNEL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3968.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: DOG TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/dogtv_pt.png" tvg-id="dogtv.pt" ,PT: DOG TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DOG TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/dogtv_pt.png" tvg-id="dogtv.pt" ,PT: DOG TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19198.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: E! Entertainment -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" tvg-id="EEntertainment.pt" ,PT: E! Entertainment -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: E! Entertainment - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eentertainment.png" tvg-id="EEntertainment.pt" ,PT: E! Entertainment - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3966.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 1 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports1_uk.png" tvg-id="elevensports1.pt" ,PT: Eleven Sports 1 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 1 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports1_uk.png" tvg-id="elevensports1.pt" ,PT: Eleven Sports 1 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29125.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 1 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports1_uk.png" tvg-id="elevensports1.pt" ,PT: ELEVEN SPORTS 1 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 1 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports1_uk.png" tvg-id="elevensports1.pt" ,PT: ELEVEN SPORTS 1 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29089.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 2 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports2_uk.png" tvg-id="elevensports2.pt" ,PT: Eleven Sports 2 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 2 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports2_uk.png" tvg-id="elevensports2.pt" ,PT: Eleven Sports 2 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29124.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 2 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports2_uk.png" tvg-id="elevensports2.pt" ,PT: ELEVEN SPORTS 2 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 2 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports2_uk.png" tvg-id="elevensports2.pt" ,PT: ELEVEN SPORTS 2 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29088.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 3 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="elevensports3.pt" ,PT: Eleven Sports 3 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 3 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="elevensports3.pt" ,PT: Eleven Sports 3 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29123.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 3 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="elevensports3.pt" ,PT: ELEVEN SPORTS 3 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 3 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="elevensports3.pt" ,PT: ELEVEN SPORTS 3 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29087.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 4 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="ElevenSports4.pt" ,PT: Eleven Sports 4 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 4 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="ElevenSports4.pt" ,PT: Eleven Sports 4 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29122.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 4 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 4 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 4 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 4 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29086.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 5 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="ElevenSports5.pt" ,PT: Eleven Sports 5 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 5 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="ElevenSports5.pt" ,PT: Eleven Sports 5 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29121.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 5 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 5 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 5 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 5 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29085.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eleven Sports 6 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: Eleven Sports 6 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eleven Sports 6 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: Eleven Sports 6 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29120.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ELEVEN SPORTS 6 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 6 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ELEVEN SPORTS 6 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/elevensports.png" tvg-id="" ,PT: ELEVEN SPORTS 6 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29084.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eurosport 1 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1.png" tvg-id="eurosport1.pt" ,PT: Eurosport 1 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eurosport 1 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1.png" tvg-id="eurosport1.pt" ,PT: Eurosport 1 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: EUROSPORT 1 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1hd.png" tvg-id="eurosport1.pt" ,PT: EUROSPORT 1 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: EUROSPORT 1 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport1hd.png" tvg-id="eurosport1.pt" ,PT: EUROSPORT 1 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7047.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: EUROSPORT 2 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport2.png" tvg-id="eurosport2.pt" ,PT: EUROSPORT 2 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: EUROSPORT 2 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosport2.png" tvg-id="eurosport2.pt" ,PT: EUROSPORT 2 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19205.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Eurosport new -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosportnews.png" tvg-id="Eurosport News PT" ,PT: Eurosport new -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eurosport new - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/eurosportnews.png" tvg-id="Eurosport News PT" ,PT: Eurosport new - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/28.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FASHION TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fashiontv.png" tvg-id="fashiontv.pt" ,PT: FASHION TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FASHION TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fashiontv.png" tvg-id="fashiontv.pt" ,PT: FASHION TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7720.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FIGHT NETWORK HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fightnetwork.png" tvg-id="fightnetwork.pt" ,PT: FIGHT NETWORK HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FIGHT NETWORK HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fightnetwork.png" tvg-id="fightnetwork.pt" ,PT: FIGHT NETWORK HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7046.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Fine Living Network HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fineliving.png" tvg-id="" ,PT: Fine Living Network HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Fine Living Network HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fineliving.png" tvg-id="" ,PT: Fine Living Network HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7719.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX Comedy HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrimehd.png" tvg-id="foxcomedy.pt" ,PT: FOX Comedy HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX Comedy HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrimehd.png" tvg-id="foxcomedy.pt" ,PT: FOX Comedy HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7027.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX CRIME -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrime.png" tvg-id="foxcrime.pt" ,PT: FOX CRIME -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX CRIME - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrime.png" tvg-id="foxcrime.pt" ,PT: FOX CRIME - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3940.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX CRIME HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrimehd.png" tvg-id="foxcrime.pt" ,PT: FOX CRIME HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX CRIME HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxcrimehd.png" tvg-id="foxcrime.pt" ,PT: FOX CRIME HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7028.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="fox.pt" ,PT: FOX HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxhd.png" tvg-id="fox.pt" ,PT: FOX HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7030.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX LIFE HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" tvg-id="foxlife.pt" ,PT: FOX LIFE HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX LIFE HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxlifehd.png" tvg-id="foxlife.pt" ,PT: FOX LIFE HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7029.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FOX Movies HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxmovies.png" tvg-id="foxmovies.pt" ,PT: FOX Movies HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX Movies HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/foxmovies.png" tvg-id="foxmovies.pt" ,PT: FOX Movies HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7726.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: FUEL TV HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fueltv.png" tvg-id="fueltv.pt" ,PT: FUEL TV HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FUEL TV HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/fueltv.png" tvg-id="fueltv.pt" ,PT: FUEL TV HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7045.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: GLOBO -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globo.pt" ,PT: GLOBO -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: GLOBO - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globo.pt" ,PT: GLOBO - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4298.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: HOLLYWOOD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/HOLLYWOOD.png" tvg-id="CanalHollywood.pt" ,PT: HOLLYWOOD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: HOLLYWOOD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/HOLLYWOOD.png" tvg-id="CanalHollywood.pt" ,PT: HOLLYWOOD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3937.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: HOLLYWOOD HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/HOLLYWOOD.png" tvg-id="CanalHollywood.pt" ,PT: HOLLYWOOD HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: HOLLYWOOD HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/HOLLYWOOD.png" tvg-id="CanalHollywood.pt" ,PT: HOLLYWOOD HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7728.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: JIM JAM -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/jimjam.png" tvg-id="jimjam.pt" ,PT: JIM JAM -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: JIM JAM - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/jimjam.png" tvg-id="jimjam.pt" ,PT: JIM JAM - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4297.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: MOTORS TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorstv.png" tvg-id="motorvision.pt" ,PT: MOTORS TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOTORS TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorstv.png" tvg-id="motorvision.pt" ,PT: MOTORS TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3964.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: MOTORVISION -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorvision.png" tvg-id="motorvision.pt" ,PT: MOTORVISION -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOTORVISION - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/motorvision.png" tvg-id="motorvision.pt" ,PT: MOTORVISION - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4296.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: MOV HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/mov.png" tvg-id="" ,PT: MOV HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOV HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/mov.png" tvg-id="" ,PT: MOV HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4001.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: MOV HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MOVHD.png" tvg-id="Mov.pt" ,PT: MOV HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOV HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MOVHD.png" tvg-id="Mov.pt" ,PT: MOV HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7729.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Mtv Portuga -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MtvPortuga.png" tvg-id="mtv.pt" ,PT: Mtv Portuga -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Mtv Portuga - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MtvPortuga.png" tvg-id="mtv.pt" ,PT: Mtv Portuga - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3941.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: MTV PORTUGAL -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MTVPORTUGAL.png" tvg-id="mtv.pt" ,PT: MTV PORTUGAL -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MTV PORTUGAL - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/MTVPORTUGAL.png" tvg-id="mtv.pt" ,PT: MTV PORTUGAL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4295.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Nat Geo Wild -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowild.png" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Nat Geo Wild - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowild.png" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3962.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Nat Geo Wild HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Nat Geo Wild HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/natgeowildhd.png" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7723.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographic.png" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3963.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographichd.png" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nationalgeographichd.png" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7724.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: NICKELODEON -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="nickelodeon.pt" ,PT: NICKELODEON -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NICKELODEON - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/nickelodeon.png" tvg-id="nickelodeon.pt" ,PT: NICKELODEON - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3961.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: ODISSEIA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/odisseia.png" tvg-id="odisseia.pt" ,PT: ODISSEIA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ODISSEIA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/odisseia.png" tvg-id="odisseia.pt" ,PT: ODISSEIA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3960.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Panda Biggs -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/pandabiggs_pt.png" tvg-id="Panda Biggs PT" ,PT: Panda Biggs -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Panda Biggs - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/pandabiggs_pt.png" tvg-id="Panda Biggs PT" ,PT: Panda Biggs - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8526.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: PFC -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/pfc_pt.png" tvg-id="pfc.pt" ,PT: PFC -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: PFC - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/pfc_pt.png" tvg-id="pfc.pt" ,PT: PFC - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3959.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: PORTO CANAL -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/portocanal_pt.png" tvg-id="porto.pt" ,PT: PORTO CANAL -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: PORTO CANAL - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/portocanal_pt.png" tvg-id="porto.pt" ,PT: PORTO CANAL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3936.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP 1 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" tvg-id="rtp1.pt" ,PT: RTP 1 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP 1 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" tvg-id="rtp1.pt" ,PT: RTP 1 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4000.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP 1 FHD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" tvg-id="rtp1.pt" ,PT: RTP 1 FHD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP 1 FHD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" tvg-id="rtp1.pt" ,PT: RTP 1 FHD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27162.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP 2 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp2.png" tvg-id="rtp2.pt" ,PT: RTP 2 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP 2 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp2.png" tvg-id="rtp2.pt" ,PT: RTP 2 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3999.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP 3 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp3.png" tvg-id="rtp3.pt" ,PT: RTP 3 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP 3 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp3.png" tvg-id="rtp3.pt" ,PT: RTP 3 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3986.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP AÇORES -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpacores.png" tvg-id="rtpacores.pt" ,PT: RTP AÇORES -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP AÇORES - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpacores.png" tvg-id="rtpacores.pt" ,PT: RTP AÇORES - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3958.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP ÁFRICA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpafrica.png" tvg-id="rtpafrica.pt" ,PT: RTP ÁFRICA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP ÁFRICA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpafrica.png" tvg-id="rtpafrica.pt" ,PT: RTP ÁFRICA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3957.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP MADEIRA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpmadeira.png" tvg-id="rtpmadeira.pt" ,PT: RTP MADEIRA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP MADEIRA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpmadeira.png" tvg-id="rtpmadeira.pt" ,PT: RTP MADEIRA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/6622.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: RTP MEMÓRIA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpmemoria.png" tvg-id="rtpmemoria.pt" ,PT: RTP MEMÓRIA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: RTP MEMÓRIA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtpmemoria.png" tvg-id="rtpmemoria.pt" ,PT: RTP MEMÓRIA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3956.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SIC MULHER -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicmulher_pt.png" tvg-id="sicmulher.pt" ,PT: SIC MULHER -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SIC MULHER - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicmulher_pt.png" tvg-id="sicmulher.pt" ,PT: SIC MULHER - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3955.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SIC NOTICIAS -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicnoticias_pt.png" tvg-id="sicnoticias.pt" ,PT: SIC NOTICIAS -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SIC NOTICIAS - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicnoticias_pt.png" tvg-id="sicnoticias.pt" ,PT: SIC NOTICIAS - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3935.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SIC NOTICIAS HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicnoticias_pt.png" tvg-id="sicnoticias.pt" ,PT: SIC NOTICIAS HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SIC NOTICIAS HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicnoticias_pt.png" tvg-id="sicnoticias.pt" ,PT: SIC NOTICIAS HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7053.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SIC RADICAL -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicradical_pt.png" tvg-id="sicradical.pt" ,PT: SIC RADICAL -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SIC RADICAL - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicradical_pt.png" tvg-id="sicradical.pt" ,PT: SIC RADICAL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3934.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SIC RADICAL HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicradical_pt.png" tvg-id="sicradical.pt" ,PT: SIC RADICAL HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SIC RADICAL HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicradical_pt.png" tvg-id="sicradical.pt" ,PT: SIC RADICAL HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7052.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV  backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: Sport TV  backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV  backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: Sport TV  backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16742.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV  HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/SPORTTVHD.png" tvg-id="Sport TV + PT" ,PT: SPORT TV  HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV  HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/SPORTTVHD.png" tvg-id="Sport TV + PT" ,PT: SPORT TV  HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7731.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 1 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: Sport TV 1 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 1 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: Sport TV 1 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16741.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 1 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: SPORT TV 1 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 1 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: SPORT TV 1 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3992.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 1 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: SPORT TV 1 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 1 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: SPORT TV 1 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7049.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 1 HD backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: Sport TV 1 HD backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 1 HD backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv1_pt.png" tvg-id="sporttv1.pt" ,PT: Sport TV 1 HD backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16740.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 2 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: SPORT TV 2 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 2 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: SPORT TV 2 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3993.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 2 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: SPORT TV 2 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 2 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: SPORT TV 2 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7043.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 2 HD backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: Sport TV 2 HD backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 2 HD backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv2_pt.png" tvg-id="sporttv2.pt" ,PT: Sport TV 2 HD backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16738.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 3 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 3 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3994.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 3 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 3 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7042.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 3HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 3HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv3_pt.png" tvg-id="sporttv3.pt" ,PT: SPORT TV 3HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/158.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 4 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: SPORT TV 4 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 4 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: SPORT TV 4 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3995.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 4 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 4 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 4 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 4 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7041.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 4 HD backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: Sport TV 4 HD backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 4 HD backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: Sport TV 4 HD backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16734.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 4HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: SPORT TV 4HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 4HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4_pt.png" tvg-id="sporttv4.pt" ,PT: SPORT TV 4HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/2495.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 5 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 5 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3997.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 5 backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: Sport TV 5 backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 5 backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: Sport TV 5 backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16733.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 5 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 5 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7040.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: Sport TV 5 HD backup -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: Sport TV 5 HD backup -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Sport TV 5 HD backup - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: Sport TV 5 HD backup - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16732.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV 5HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV 5HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv5_pt.png" tvg-id="sporttv5.pt" ,PT: SPORT TV 5HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/2496.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV+  HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: SPORT TV+  HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV+  HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: SPORT TV+  HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7051.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORT TV+ -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: SPORT TV+ -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORT TV+ - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttvplus_pt.png" tvg-id="sporttvplus.pt" ,PT: SPORT TV+ - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7050.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SPORTING TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportingtv_pt.png" tvg-id="sportingtv.pt" ,PT: SPORTING TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SPORTING TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportingtv_pt.png" tvg-id="sportingtv.pt" ,PT: SPORTING TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3991.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SportTV 4 4K -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4k_pt.png" tvg-id="sporttv4.pt" ,PT: SportTV 4 4K -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SportTV 4 4K - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/sporttv4k_pt.png" tvg-id="sporttv4.pt" ,PT: SportTV 4 4K - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26935.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SYFY -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" tvg-id="syfy.pt" ,PT: SYFY -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SYFY - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfy.png" tvg-id="syfy.pt" ,PT: SYFY - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3933.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: SyFy HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfyhd.png" tvg-id="syfy.pt" ,PT: SyFy HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: SyFy HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/syfyhd.png" tvg-id="syfy.pt" ,PT: SyFy HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7026.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TLC -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" tvg-id="tlc.pt" ,PT: TLC -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TLC - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tlc.png" tvg-id="tlc.pt" ,PT: TLC - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3954.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TOUROS TV -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TOUROSTV.png" tvg-id="toros.pt" ,PT: TOUROS TV -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TOUROS TV - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TOUROSTV.png" tvg-id="toros.pt" ,PT: TOUROS TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3953.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TRAVEL CHANNEL HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.pt" ,PT: TRAVEL CHANNEL HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TRAVEL CHANNEL HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/travelchannel.png" tvg-id="travelchannel.pt" ,PT: TRAVEL CHANNEL HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7725.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV CINE 1  HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine1.png" tvg-id="tvcine1.pt" ,PT: TV CINE 1  HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 1  HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine1.png" tvg-id="tvcine1.pt" ,PT: TV CINE 1  HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3987.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV CINE 2  HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine2.png" tvg-id="tvcine2.pt" ,PT: TV CINE 2  HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 2  HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine2.png" tvg-id="tvcine2.pt" ,PT: TV CINE 2  HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3988.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV CINE 3 HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine3.pt" ,PT: TV CINE 3 HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 3 HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine3.pt" ,PT: TV CINE 3 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3989.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV CINE 4 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine4.png" tvg-id="tvcine4.pt" ,PT: TV CINE 4 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 4 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine4.png" tvg-id="tvcine4.pt" ,PT: TV CINE 4 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3990.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV GALICIA -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvgalicia.png" tvg-id="tvgalizia.pt" ,PT: TV GALICIA -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV GALICIA - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvgalicia.png" tvg-id="tvgalizia.pt" ,PT: TV GALICIA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19197.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV GLOBO -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globo.pt" ,PT: TV GLOBO -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV GLOBO - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globo.pt" ,PT: TV GLOBO - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3952.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV Globo Premium -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globopremium.pt" ,PT: TV Globo Premium -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV Globo Premium - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvglobo.png" tvg-id="globopremium.pt" ,PT: TV Globo Premium - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3951.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TV RECORD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordtv.png" tvg-id="recordtv.pt" ,PT: TV RECORD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV RECORD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/recordtv.png" tvg-id="recordtv.pt" ,PT: TV RECORD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3950.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVC HD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVCHD.png" tvg-id="" ,PT: TVC HD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVC HD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVCHD.png" tvg-id="" ,PT: TVC HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4294.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVCINE 1 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine1.pt" ,PT: TVCINE 1 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVCINE 1 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine1.pt" ,PT: TVCINE 1 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7038.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVCINE 2 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine2.png" tvg-id="tvcine2.pt" ,PT: TVCINE 2 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVCINE 2 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine2.png" tvg-id="tvcine2.pt" ,PT: TVCINE 2 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7037.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVCINE 3 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine3.pt" ,PT: TVCINE 3 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVCINE 3 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine3.png" tvg-id="tvcine3.pt" ,PT: TVCINE 3 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7036.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVCINE 4 HD 1080 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine4.png" tvg-id="tvcine4.pt" ,PT: TVCINE 4 HD 1080 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVCINE 4 HD 1080 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvcine4.png" tvg-id="tvcine4.pt" ,PT: TVCINE 4 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7035.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVCseries -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVCseries.png" tvg-id="" ,PT: TVCseries -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVCseries - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVCseries.png" tvg-id="" ,PT: TVCseries - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3949.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvi.pt" ,PT: TVI -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvi.pt" ,PT: TVI - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3948.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI 24 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi24_pt.png" tvg-id="tvi24.pt" ,PT: TVI 24 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI 24 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi24_pt.png" tvg-id="tvi24.pt" ,PT: TVI 24 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3947.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI FHD -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvi.pt" ,PT: TVI FHD -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI FHD - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvi.pt" ,PT: TVI FHD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16181.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI Fic -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvificcao.pt" ,PT: TVI Fic -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI Fic - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvificcao.pt" ,PT: TVI Fic - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16144.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI Reality (A Quinta) -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvireality.pt" ,PT: TVI Reality (A Quinta) -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI Reality (A Quinta) - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="tvireality.pt" ,PT: TVI Reality (A Quinta) - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3946.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI REALITY CAMARA 1 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="" ,PT: TVI REALITY CAMARA 1 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI REALITY CAMARA 1 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="" ,PT: TVI REALITY CAMARA 1 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19206.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI REALITY CAMARA 3 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="" ,PT: TVI REALITY CAMARA 3 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI REALITY CAMARA 3 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="" ,PT: TVI REALITY CAMARA 3 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19208.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: TVI REALITY CAMARA 4 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="tvireality.pt" ,PT: TVI REALITY CAMARA 4 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TVI REALITY CAMARA 4 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/TVIREALITYCAMARA.png" tvg-id="tvireality.pt" ,PT: TVI REALITY CAMARA 4 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19209.m3u8
-#EXTINF:-1 group-title="Classificar Country - Portugal" tvg-name="PT: VH1 -  - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/vh1.png" tvg-id="vh1.pt" ,PT: VH1 -  - Classificar Qualidade
+#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: VH1 - PT - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/vh1.png" tvg-id="vh1.pt" ,PT: VH1 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3945.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: ABC 13 (Houston) | HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: ABC 13 (Houston) | HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/37364.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: FOX 26 (Houston) | HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: FOX 26 (Houston) | HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/37365.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: Fusion HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: Fusion HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33367.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: MavTV HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: MavTV HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33370.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: MGM HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: MGM HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33369.m3u8
-#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: WILLOW CRICKET HD -  - Classificar Qualidade" tvg-logo="" tvg-id="willowcricket.us" ,US: WILLOW CRICKET HD -  - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33365.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="TVI - PT - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tvi_pt.png" tvg-id="" ,TVI - PT - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8068.m3u8
 #EXTINF:-1 group-title="UK - Filmes" tvg-name="CBS Drama - UK - SD" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/CBSDrama.uk.png" tvg-id="cbsdrama.uk" ,CBS Drama - UK - SD
@@ -2071,6 +2059,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7919.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8586.m3u8
 #EXTINF:-1 group-title="US - Musicas" tvg-name="MTV HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" tvg-id="mtv.us" ,MTV HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16088.m3u8
+#EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 13 - Houston - US - Classificar Qualidade" tvg-logo="" tvg-id="ABC (KTRK) Houston, TX" ,ABC 13 - Houston - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/37364.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 7 - Los Angeles - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/abc7.png" tvg-id="ABC (KABC) Los Angeles, CA" ,ABC 7 - Los Angeles - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/136.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 7 - Los Angeles - US - HD" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/abc7.png" tvg-id="ABC (KABC) Los Angeles, CA" ,ABC 7 - Los Angeles - US - HD
@@ -2449,6 +2439,16 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7985.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8532.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="UNIVISION DEP HD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/UNIVISIONDEPHD.png" tvg-id="univisiondeportes.us" ,UNIVISION DEP HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8630.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: FOX 26 (Houston) | HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: FOX 26 (Houston) | HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/37365.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: Fusion HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: Fusion HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/33367.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: MavTV HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: MavTV HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/33370.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: MGM HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: MGM HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/33369.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: WILLOW CRICKET HD - US - Classificar Qualidade" tvg-logo="" tvg-id="willowcricket.us" ,US: WILLOW CRICKET HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/33365.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="US:d Bull TV  ReFHD - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/BullTVReFHD.png" tvg-id="redbulltv.us" ,US:d Bull TV  ReFHD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27171.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="USA Network - US - Classificar Qualidade" tvg-logo="http://iptvreseller.xyz:1234/Anh/usanetwork.png" tvg-id="USA Network - East Feed" ,USA Network - US - Classificar Qualidade

@@ -109,8 +109,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/abc.png" tvg-id="" ,ABC - US - Classificar Qualidade
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 group-title="US - Noticias" tvg-name="BBC World News - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/bbcworldnews.png" tvg-id="" ,BBC World News - US - Classificar Qualidade
-http://190.13.120.114/streams/bbcworld.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="CBS - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/cbsnews.png" tvg-id="" ,CBS - US - Classificar Qualidade
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="CNN - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/cnn.png" tvg-id="" ,CNN - US - Classificar Qualidade
@@ -133,7 +131,5 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Animal Planet - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/animalplanet.png" tvg-id="" ,Animal Planet - US - Classificar Qualidade
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 group-title="US - Variedades" tvg-name="History - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/history.png" tvg-id="" ,History - US - Classificar Qualidade
-http://190.13.120.113/streams/history.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Travel Channel - US - Classificar Qualidade" tvg-logo="https://raw.githubusercontent.com/glealroda/list/master/image/travelchannel.png" tvg-id="" ,Travel Channel - US - Classificar Qualidade
 http://80.80.160.168/live/3/live.m3u8
