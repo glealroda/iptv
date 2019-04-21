@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.7 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="AandE HD">
     <display-name lang="pt">AandE HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/br_a-e-hd.png" />
+    <icon src="https://cdn.mitvstatic.com/channels/br_a-e-hd_m.png" />
     <url>http://www.mi.tv</url>
   </channel>
   <programme start="20190421053000 +0000" stop="20190421062000 +0000" channel="AandE HD">
