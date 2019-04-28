@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+#EXTINF:-1 group-title="Classificar" tvg-name="a" tvg-logo="" tvg-id="" ,
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w511069425.m3u8
-#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+#EXTINF:-1 group-title="Classificar" tvg-name="b" tvg-logo="" tvg-id="" ,
 https://videos3.earthcam.com/fecnetwork/10874.flv/chunklist_w1681213649.m3u8
-#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+#EXTINF:-1 group-title="Classificar" tvg-name="c" tvg-logo="" tvg-id="" ,
 https://videos3.earthcam.com/fecnetwork/6593.flv/chunklist_w1063235048.m3u8
-#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+#EXTINF:-1 group-title="Classificar" tvg-name="d" tvg-logo="" tvg-id="" ,
 https://videos3.earthcam.com/fecnetwork/eiffelcamHD.flv/chunklist_w530778078.m3u8
-#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+#EXTINF:-1 group-title="Classificar" tvg-name="e" tvg-logo="" tvg-id="" ,
 https://videos3.earthcam.com/fecnetwork/statueoflibertyHD.flv/chunklist_w975249702.m3u8
 #EXTINF:-1 group-title="US - New York" tvg-name="Times Square 01 - US - HD" tvg-logo="" tvg-id="" ,Times Square 01 - US - HD
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
