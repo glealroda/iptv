@@ -1047,18 +1047,14 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/16953.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17942.m3u8
 #EXTINF:-1 group-title="CA - Variedades" tvg-name="HGTV - CA - SD" tvg-logo="" tvg-id="hgtv.ca" ,HGTV - CA - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16940.m3u8
+#EXTINF:-1 group-title="PT - Esportes" tvg-name="A BOLA TV - PT - SD" tvg-logo="" tvg-id="abolatv.pt" ,A BOLA TV - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3981.m3u8
+#EXTINF:-1 group-title="PT - Esportes" tvg-name="A BOLA TV - PT - SD" tvg-logo="" tvg-id="abolatv.pt" ,A BOLA TV - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/26868.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT:  Fox Crime - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcrime.pt" ,PT:  Fox Crime - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4303.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT:  Historia - PT - Classificar Qualidade" tvg-logo="" tvg-id="historia.pt" ,PT:  Historia - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4302.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: 24 KITCHEN - PT - Classificar Qualidade" tvg-logo="" tvg-id="24kitchen.pt" ,PT: 24 KITCHEN - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3983.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: A & E - PT - Classificar Qualidade" tvg-logo="" tvg-id="aande.pt" ,PT: A & E - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3982.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: A BOLA TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="abolatv.pt" ,PT: A BOLA TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3981.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Abola TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="abolatv.pt" ,PT: Abola TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26868.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Afro Music - PT - Classificar Qualidade" tvg-logo="" tvg-id="afromusicchannel.pt" ,PT: Afro Music - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26601.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: AMC - PT - Classificar Qualidade" tvg-logo="" tvg-id="amc.pt" ,PT: AMC - PT - Classificar Qualidade
@@ -1089,32 +1085,18 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/16731.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3943.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: BTV 1 HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="Benfica TV 1 HD PT" ,PT: BTV 1 HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7039.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CAÇA & PESCA - PT - Classificar Qualidade" tvg-logo="" tvg-id="cacaepesca.pt" ,PT: CAÇA & PESCA - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3978.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CAçAVISION - PT - Classificar Qualidade" tvg-logo="" tvg-id="cacavision.pt" ,PT: CAçAVISION - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/17491.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL HISTÓRIA - PT - Classificar Qualidade" tvg-logo="" tvg-id="" ,PT: CANAL HISTÓRIA - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3977.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL PANDA - PT - Classificar Qualidade" tvg-logo="" tvg-id="Canal Panda PT" ,PT: CANAL PANDA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3976.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CANAL Q - PT - Classificar Qualidade" tvg-logo="" tvg-id="canalq.pt" ,PT: CANAL Q - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3975.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CARTOON  NETWORK - PT - Classificar Qualidade" tvg-logo="" tvg-id="cartoonnetwork.pt" ,PT: CARTOON  NETWORK - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4301.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CBS REALITY - PT - Classificar Qualidade" tvg-logo="" tvg-id="cbsreality.pt" ,PT: CBS REALITY - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4300.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CINEMUNDO - PT - Classificar Qualidade" tvg-logo="" tvg-id="cinemundo.pt" ,PT: CINEMUNDO - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3972.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CLUBBING TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="clubbingtv.pt" ,PT: CLUBBING TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/19203.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CM TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="cmtv.pt" ,PT: CM TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3971.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISCOVERY CHANNEL - PT - Classificar Qualidade" tvg-logo="" tvg-id="discoverychannel.pt" ,PT: DISCOVERY CHANNEL - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3970.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISCOVERY HD 1080 SHOWCASE - PT - Classificar Qualidade" tvg-logo="" tvg-id="discoveryshowcase.pt" ,PT: DISCOVERY HD 1080 SHOWCASE - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7722.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Discovery HD Showcase - PT - Classificar Qualidade" tvg-logo="" tvg-id="discoveryshowcase.pt" ,PT: Discovery HD Showcase - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3969.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISNEY CHANNEL - PT - Classificar Qualidade" tvg-logo="" tvg-id="disneychannel.pt" ,PT: DISNEY CHANNEL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3968.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISNEY JUNIOR - PT - Classificar Qualidade" tvg-logo="" tvg-id="disneyjunior.pt" ,PT: DISNEY JUNIOR - PT - Classificar Qualidade
@@ -1157,12 +1139,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7047.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/19205.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Eurosport new - PT - Classificar Qualidade" tvg-logo="" tvg-id="Eurosport News PT" ,PT: Eurosport new - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/28.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FASHION TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="fashiontv.pt" ,PT: FASHION TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7720.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FIGHT NETWORK HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="fightnetwork.pt" ,PT: FIGHT NETWORK HD 1080 - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7046.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Fine Living Network HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="" ,PT: Fine Living Network HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7719.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Fox Comedy - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcomedy.pt" ,PT: Fox Comedy - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3965.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX Comedy HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcomedy.pt" ,PT: FOX Comedy HD 1080 - PT - Classificar Qualidade
@@ -1195,12 +1173,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/3937.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7728.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: JIM JAM - PT - Classificar Qualidade" tvg-logo="" tvg-id="jimjam.pt" ,PT: JIM JAM - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4297.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOTORS TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="motorvision.pt" ,PT: MOTORS TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3964.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOTORVISION - PT - Classificar Qualidade" tvg-logo="" tvg-id="motorvision.pt" ,PT: MOTORVISION - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4296.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOTORVISION TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="motorvision.pt" ,PT: MOTORVISION TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/934.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOV HD - PT - Classificar Qualidade" tvg-logo="" tvg-id="" ,PT: MOV HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4001.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MOV HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="Mov.pt" ,PT: MOV HD 1080 - PT - Classificar Qualidade
@@ -1209,20 +1181,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7729.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3941.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: MTV PORTUGAL - PT - Classificar Qualidade" tvg-logo="" tvg-id="mtv.pt" ,PT: MTV PORTUGAL - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4295.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Nat Geo Wild - PT - Classificar Qualidade" tvg-logo="" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3962.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Nat Geo Wild HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="natgeowild.pt" ,PT: Nat Geo Wild HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7723.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC - PT - Classificar Qualidade" tvg-logo="" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/3963.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NATIONAL GEOGRAPHIC HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="natgeo.pt" ,PT: NATIONAL GEOGRAPHIC HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7724.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: NICKELODEON - PT - Classificar Qualidade" tvg-logo="" tvg-id="nickelodeon.pt" ,PT: NICKELODEON - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3961.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: ODISSEIA - PT - Classificar Qualidade" tvg-logo="" tvg-id="odisseia.pt" ,PT: ODISSEIA - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3960.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Outdoor Channel HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="outdoor.pt" ,PT: Outdoor Channel HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7721.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Panda Biggs - PT - Classificar Qualidade" tvg-logo="" tvg-id="Panda Biggs PT" ,PT: Panda Biggs - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8526.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: PFC - PT - Classificar Qualidade" tvg-logo="" tvg-id="pfc.pt" ,PT: PFC - PT - Classificar Qualidade
@@ -1329,8 +1291,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7026.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3954.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TOUROS TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="toros.pt" ,PT: TOUROS TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3953.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TRAVEL CHANNEL HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="travelchannel.pt" ,PT: TRAVEL CHANNEL HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7725.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 1  HD - PT - Classificar Qualidade" tvg-logo="" tvg-id="tvcine1.pt" ,PT: TV CINE 1  HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3987.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: TV CINE 2  HD - PT - Classificar Qualidade" tvg-logo="" tvg-id="tvcine2.pt" ,PT: TV CINE 2  HD - PT - Classificar Qualidade
@@ -1383,8 +1343,50 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/3945.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/4293.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT:SPORT TV 1 HD - PT - Classificar Qualidade" tvg-logo="" tvg-id="sporttv1.pt" ,PT:SPORT TV 1 HD - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/160.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="24 KITCHEN - PT - FHD" tvg-logo="" tvg-id="24kitchen.pt" ,24 KITCHEN - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3983.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="CAÇA & PESCA - PT - SD" tvg-logo="" tvg-id="cacaepesca.pt" ,CAÇA & PESCA - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3978.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="CAÇAVISION - PT - SD" tvg-logo="" tvg-id="cacavision.pt" ,CAÇAVISION - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/17491.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="CBS REALITY - PT - SD" tvg-logo="" tvg-id="cbsreality.pt" ,CBS REALITY - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4300.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="DISCOVERY CHANNEL - PT - SD" tvg-logo="" tvg-id="discoverychannel.pt" ,DISCOVERY CHANNEL - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3970.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="DISCOVERY CHANNEL - PT - SD" tvg-logo="" tvg-id="discoveryshowcase.pt" ,DISCOVERY CHANNEL - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7722.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Discovery Showcase - PT - FHD" tvg-logo="" tvg-id="discoveryshowcase.pt" ,Discovery Showcase - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3969.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="FASHION TV - PT - SD" tvg-logo="" tvg-id="fashiontv.pt" ,FASHION TV - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7720.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Fine Living Network - PT - FHD" tvg-logo="" tvg-id="" ,Fine Living Network - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7719.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Historia - PT - SD" tvg-logo="" tvg-id="historia.pt" ,Historia - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4302.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="HISTÓRIA - PT - SD" tvg-logo="" tvg-id="" ,HISTÓRIA - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3977.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="MOTORS TV - PT - SD" tvg-logo="" tvg-id="motorvision.pt" ,MOTORS TV - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3964.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="MOTORVISION - PT - SD" tvg-logo="" tvg-id="motorvision.pt" ,MOTORVISION - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4296.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="MOTORVISION - PT - SD" tvg-logo="" tvg-id="motorvision.pt" ,MOTORVISION - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/934.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Nat Geo Wild - PT - FHD" tvg-logo="" tvg-id="natgeowild.pt" ,Nat Geo Wild - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7723.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Nat Geo Wild - PT - SD" tvg-logo="" tvg-id="natgeowild.pt" ,Nat Geo Wild - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3962.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="NATIONAL GEOGRAPHIC - PT - FHD" tvg-logo="" tvg-id="natgeo.pt" ,NATIONAL GEOGRAPHIC - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7724.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="NATIONAL GEOGRAPHIC - PT - SD" tvg-logo="" tvg-id="natgeo.pt" ,NATIONAL GEOGRAPHIC - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/3963.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="Outdoor Channel - PT - FHD" tvg-logo="" tvg-id="outdoor.pt" ,Outdoor Channel - PT - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7721.m3u8
+#EXTINF:-1 group-title="PT - Variedades" tvg-name="TRAVEL CHANNEL - PT - SD" tvg-logo="" tvg-id="travelchannel.pt" ,TRAVEL CHANNEL - PT - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7725.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="TVI - PT - SD" tvg-logo="" tvg-id="" ,TVI - PT - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8068.m3u8
+#EXTINF:-1 group-title="UK - Esportes" tvg-name="Racing - UK - SD" tvg-logo="" tvg-id="RacingUK.uk" ,Racing - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/391.m3u8
 #EXTINF:-1 group-title="UK - Filmes" tvg-name="CBBC - UK - SD" tvg-logo="" tvg-id="cbbc.uk" ,CBBC - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/167.m3u8
 #EXTINF:-1 group-title="UK - Filmes" tvg-name="CBS Drama - UK - SD" tvg-logo="" tvg-id="cbsdrama.uk" ,CBS Drama - UK - SD
@@ -1409,6 +1411,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/47.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/4465.m3u8
 #EXTINF:-1 group-title="UK - Infantil" tvg-name="Sky Movies Disney - UK - SD" tvg-logo="" tvg-id="Sky Movies Disney UK" ,Sky Movies Disney - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/59.m3u8
+#EXTINF:-1 group-title="UK - Musica" tvg-name="Magic - UK - SD" tvg-logo="" tvg-id="magic.uk" ,Magic - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7436.m3u8
 #EXTINF:-1 group-title="UK - Noticias" tvg-name="BBC 1 - UK - SD" tvg-logo="" tvg-id="bbc1.uk" ,BBC 1 - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/185.m3u8
 #EXTINF:-1 group-title="UK - Noticias" tvg-name="BBC 1 - UK - SD" tvg-logo="" tvg-id="bbc1.uk" ,BBC 1 - UK - SD
@@ -1419,8 +1423,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/761.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/384.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="CBS Action - UK - SD" tvg-logo="" tvg-id="cbsaction.uk" ,CBS Action - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1423.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK : Comedy Central - UK - Classificar Qualidade" tvg-logo="" tvg-id="comedycentral.uk" ,UK : Comedy Central - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/438.m3u8
+#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="TLC 1 - UK - SD" tvg-logo="" tvg-id="TLC" ,TLC 1 - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4445.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK : Eden - UK - Classificar Qualidade" tvg-logo="" tvg-id="eden.uk" ,UK : Eden - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/436.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK : Sky Movies Drama - UK - Classificar Qualidade" tvg-logo="" tvg-id="Sky Movies Drama Romance UK" ,UK : Sky Movies Drama - UK - Classificar Qualidade
@@ -1531,10 +1535,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/5769.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3134.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: CNN FHD - UK - Classificar Qualidade" tvg-logo="" tvg-id="cnn.uk" ,UK: CNN FHD - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7794.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Comedy Central Extra  +1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="comedycentralextraplus1.uk" ,UK: Comedy Central Extra  +1 - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4456.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Crime & Investigiation - UK - Classificar Qualidade" tvg-logo="" tvg-id="crimeandinvestigationnetwork.uk" ,UK: Crime & Investigiation - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/5497.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Dave - UK - Classificar Qualidade" tvg-logo="" tvg-id="dave.uk" ,UK: Dave - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/437.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Dave HD - UK - Classificar Qualidade" tvg-logo="" tvg-id="dave.uk" ,UK: Dave HD - UK - Classificar Qualidade
@@ -1567,28 +1567,18 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/4473.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7688.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Film 4 - UK - Classificar Qualidade" tvg-logo="" tvg-id="film4.uk" ,UK: Film 4 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1419.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Food Network  1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="Food Network +1" ,UK: Food Network  1 - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4443.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Food Network - UK - Classificar Qualidade" tvg-logo="" tvg-id="foodnetwork.uk" ,UK: Food Network - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/1039.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: FOX - UK - Classificar Qualidade" tvg-logo="" tvg-id="fox.uk" ,UK: FOX - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/434.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: FOX News - UK - Classificar Qualidade" tvg-logo="" tvg-id="" ,UK: FOX News - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/5782.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: gold - UK - Classificar Qualidade" tvg-logo="" tvg-id="gold.uk" ,UK: gold - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1432.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Good Food - UK - Classificar Qualidade" tvg-logo="" tvg-id="goodfood.uk" ,UK: Good Food - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/1038.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: H2 - UK - Classificar Qualidade" tvg-logo="" tvg-id="H2 UK" ,UK: H2 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7442.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Heart TV - UK - Classificar Qualidade" tvg-logo="" tvg-id="hearttv.uk" ,UK: Heart TV - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7598.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: History +1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="historychannelplus1.uk" ,UK: History +1 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4459.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: History - UK - Classificar Qualidade" tvg-logo="" tvg-id="historychannel.uk" ,UK: History - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7437.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Home & Health - UK - Classificar Qualidade" tvg-logo="" tvg-id="homeandhealth.uk" ,UK: Home & Health - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/66.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Irish Tv - UK - Classificar Qualidade" tvg-logo="" tvg-id="Irish TV" ,UK: Irish Tv - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1418.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Islam Channel - UK - Classificar Qualidade" tvg-logo="" tvg-id="Islam Channel UK" ,UK: Islam Channel - UK - Classificar Qualidade
@@ -1625,20 +1615,14 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/16178.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/2895.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: LFC TV HD - UK - Classificar Qualidade" tvg-logo="" tvg-id="liverpoolfctv.uk" ,UK: LFC TV HD - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7996.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Life time - UK - Classificar Qualidade" tvg-logo="" tvg-id="lifetime.uk" ,UK: Life time - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/894.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Living UK - UK - Classificar Qualidade" tvg-logo="" tvg-id="" ,UK: Living UK - UK - Classificar Qualidade
+#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Living UK - UK - FHD" tvg-logo="" tvg-id="" ,UK: Living UK - UK - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/426.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: London Live - UK - Classificar Qualidade" tvg-logo="" tvg-id="londonlive.uk" ,UK: London Live - UK - Classificar Qualidade
+#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: London Live - UK - SD" tvg-logo="" tvg-id="londonlive.uk" ,UK: London Live - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1417.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Magic - UK - Classificar Qualidade" tvg-logo="" tvg-id="magic.uk" ,UK: Magic - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7436.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Manchester United TV - UK - Classificar Qualidade" tvg-logo="" tvg-id="mutv.uk" ,UK: Manchester United TV - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/433.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: More 4 - UK - Classificar Qualidade" tvg-logo="" tvg-id="more4.uk" ,UK: More 4 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/432.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Mototrs TV - UK - Classificar Qualidade" tvg-logo="" tvg-id="Motors TV UK" ,UK: Mototrs TV - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/1029.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Movies 4 Men - UK - Classificar Qualidade" tvg-logo="" tvg-id="movies4men.uk" ,UK: Movies 4 Men - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/5779.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: MTV  +1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="mtvplus1.uk" ,UK: MTV  +1 - UK - Classificar Qualidade
@@ -1647,10 +1631,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/4470.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7438.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: MUTV - UK - Classificar Qualidade" tvg-logo="" tvg-id="mutv.uk" ,UK: MUTV - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/758.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Nat Geo Graphic - UK - Classificar Qualidade" tvg-logo="" tvg-id="natgeo.uk" ,UK: Nat Geo Graphic - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/431.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Nat Geo Wild - UK - Classificar Qualidade" tvg-logo="" tvg-id="natgeowild.uk" ,UK: Nat Geo Wild - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/430.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Nick Jr +1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="nickjuniorplus1.uk" ,UK: Nick Jr +1 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4463.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Nick Jr - UK - Classificar Qualidade" tvg-logo="" tvg-id="nickjunior.uk" ,UK: Nick Jr - UK - Classificar Qualidade
@@ -1669,8 +1649,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/1427.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/1028.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: QUEST - UK - Classificar Qualidade" tvg-logo="" tvg-id="quest.uk" ,UK: QUEST - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/5778.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Racing UK - UK - Classificar Qualidade" tvg-logo="" tvg-id="RacingUK.uk" ,UK: Racing UK - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/391.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Real Lives - UK - Classificar Qualidade" tvg-logo="" tvg-id="reallives.uk" ,UK: Real Lives - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/5776.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: RTE One - UK - Classificar Qualidade" tvg-logo="" tvg-id="RTÉ One" ,UK: RTE One - UK - Classificar Qualidade
@@ -1757,10 +1735,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/74.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/4461.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: Tiny POP - UK - Classificar Qualidade" tvg-logo="" tvg-id="tinypop.uk" ,UK: Tiny POP - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/4460.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: TLC   1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="TLC" ,UK: TLC   1 - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/4445.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: TLC - UK - Classificar Qualidade" tvg-logo="" tvg-id="tlc.uk" ,UK: TLC - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/1415.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: True Movies 2 - UK - Classificar Qualidade" tvg-logo="" tvg-id="truemovies2.uk" ,UK: True Movies 2 - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1036.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: UTV - UK - Classificar Qualidade" tvg-logo="" tvg-id="" ,UK: UTV - UK - Classificar Qualidade
@@ -1807,10 +1781,26 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/6629.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/441.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="Animal Planet - UK - SD" tvg-logo="" tvg-id="animalplanetplus1.uk" ,Animal Planet - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/4457.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC 1 - UK - FHD" tvg-logo="" tvg-id="bbc1.uk" ,BBC 1 - UK - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8868.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC 2 - UK - FHD" tvg-logo="" tvg-id="bbc2.uk" ,BBC 2 - UK - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/852.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC 3 - UK - SD" tvg-logo="" tvg-id="" ,BBC 3 - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/184.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC 3 - UK - SD" tvg-logo="" tvg-id="" ,BBC 3 - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7994.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC 4 - UK - SD" tvg-logo="" tvg-id="bbc4.uk" ,BBC 4 - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/385.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC Earth - UK - FHD" tvg-logo="" tvg-id="BBC East-BBC One" ,BBC Earth - UK - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7082.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="BBC Parliament - UK - SD" tvg-logo="" tvg-id="bbcparliament.uk" ,BBC Parliament - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5809.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Comedy Central - UK - SD" tvg-logo="" tvg-id="comedycentral.uk" ,Comedy Central - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/438.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Comedy Central Extra - UK - SD" tvg-logo="" tvg-id="comedycentralextraplus1.uk" ,Comedy Central Extra - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4456.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Crime & Investigiation - UK - SD" tvg-logo="" tvg-id="crimeandinvestigationnetwork.uk" ,Crime & Investigiation - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/5497.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="Discovery Channel +1 - UK - SD" tvg-logo="" tvg-id="discoverychannelplus1.uk" ,Discovery Channel +1 - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/4469.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="Discovery Channel - UK - HD" tvg-logo="" tvg-id="discoverychannel.uk" ,Discovery Channel - UK - HD
@@ -1827,20 +1817,30 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/65.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/64.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="Discovery Turbo - UK - SD" tvg-logo="" tvg-id="discoveryturbo.uk" ,Discovery Turbo - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/63.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Food Network - UK - SD" tvg-logo="" tvg-id="Food Network +1" ,Food Network - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/4443.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Food Network - UK - SD" tvg-logo="" tvg-id="foodnetwork.uk" ,Food Network - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/1039.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Good Food - UK - HD" tvg-logo="" tvg-id="goodfood.uk" ,Good Food - UK - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/1038.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="History - UK - FHD" tvg-logo="" tvg-id="historychannel.uk" ,History - UK - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7437.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Home & Health - UK - SD" tvg-logo="" tvg-id="homeandhealth.uk" ,Home & Health - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/66.m3u8
 #EXTINF:-1 group-title="UK - Variedades" tvg-name="Investigation Discovery - UK - SD" tvg-logo="" tvg-id="investigationdiscovery.uk" ,Investigation Discovery - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5780.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="BBC 1 - UK - FHD" tvg-logo="" tvg-id="bbc1.uk" ,BBC 1 - UK - FHD
-http://iptv-line.com:6969/live/glealroda1/groda3834/8868.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="BBC 2 - UK - FHD" tvg-logo="" tvg-id="bbc2.uk" ,BBC 2 - UK - FHD
-http://iptv-line.com:6969/live/glealroda1/groda3834/852.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="BBC 3 - UK - SD" tvg-logo="" tvg-id="" ,BBC 3 - UK - SD
-http://iptv-line.com:6969/live/glealroda1/groda3834/7994.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="BBC 4 - UK - SD" tvg-logo="" tvg-id="bbc4.uk" ,BBC 4 - UK - SD
-http://iptv-line.com:6969/live/glealroda1/groda3834/385.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="Travel Channel - UK - SD" tvg-logo="" tvg-id="TravelChannel.uk" ,Travel Channel - UK - SD
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Lifetime - UK - FHD" tvg-logo="" tvg-id="lifetime.uk" ,Lifetime - UK - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/894.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Motors TV - UK - SD" tvg-logo="" tvg-id="Motors TV UK" ,Motors TV - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/1029.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Nat Geo Wild - UK - SD" tvg-logo="" tvg-id="natgeowild.uk" ,Nat Geo Wild - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/430.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="National Geographic - UK - SD" tvg-logo="" tvg-id="natgeo.uk" ,National Geographic - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/431.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="TLC - UK - SD" tvg-logo="" tvg-id="tlc.uk" ,TLC - UK - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/1415.m3u8
+#EXTINF:-1 group-title="UK - Variedades" tvg-name="Travel Channel - UK - SD" tvg-logo="" tvg-id="TravelChannel.uk" ,Travel Channel - UK - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1037.m3u8
-#EXTINF:-1 group-title="UK - Verificar" tvg-name="UK: BBC Three HD - UK - HD" tvg-logo="" tvg-id="" ,UK: BBC Three HD - UK - HD
-http://iptv-line.com:6969/live/glealroda1/groda3834/184.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Bein Sports - US - HD" tvg-logo="" tvg-id="beIN Sport en Espanol" ,Bein Sports - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1104.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="BTN - US - HD" tvg-logo="" tvg-id="" ,BTN - US - HD
