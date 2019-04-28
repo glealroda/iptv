@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:-1 group-title="Classificar" tvg-name="" tvg-logo="" tvg-id="" ,
+https://videos3.earthcam.com/fecnetwork/15559.flv/chunklist_w600866532.m3u8
