@@ -1931,6 +1931,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8600.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/32577.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Eleven Sports - US - HD" tvg-logo="" tvg-id="Eleven Sports" ,Eleven Sports - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/28282.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/129.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/129.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - HD" tvg-logo="" tvg-id="ESPN" ,ESPN - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/189.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - HD" tvg-logo="" tvg-id="ESPN" ,ESPN - US - HD
@@ -1945,15 +1949,11 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8580.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/121.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN Deportes - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN Deportes" ,ESPN Deportes - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8579.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN HD - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/129.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN HD - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/129.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN News US HD - US - HD" tvg-logo="" tvg-id="ESPN News" ,ESPN News US HD - US - HD
+#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN News - US - HD" tvg-logo="" tvg-id="ESPN News" ,ESPN News - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7255.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN Plus 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,ESPN Plus 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31138.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN U HD - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN U" ,ESPN U HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN U - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN U" ,ESPN U - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7256.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS 1 - US - SD" tvg-logo="" tvg-id="" ,FLOW SPORTS 1 - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31708.m3u8
@@ -1967,11 +1967,11 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/31705.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/31704.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS 6 - US - SD" tvg-logo="" tvg-id="" ,FLOW SPORTS 6 - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/31703.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS EPL 2 HD-PPV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS EPL 2 HD-PPV - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS EPL 2 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS EPL 2 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31707.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS EPL 3 HD-PPV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS EPL 3 HD-PPV - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS EPL 3 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS EPL 3 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31706.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS P.L HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS P.L HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS P.L - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FLOW SPORTS P.L - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31701.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox College Sports Atlantic - US - HD" tvg-logo="" tvg-id="Fox College Sports - Atlantic" ,Fox College Sports Atlantic - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/32564.m3u8
@@ -1981,86 +1981,102 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/32563.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/32562.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Soccer Plus - US - HD" tvg-logo="" tvg-id="FOX Soccer Plus" ,Fox Soccer Plus - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17006.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 1 - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports 1" ,Fox Sports 1 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/8574.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 1 - US - HD" tvg-logo="" tvg-id="Fox Sports 1" ,Fox Sports 1 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/14.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 1 - US - HD" tvg-logo="" tvg-id="Fox Sports 1" ,Fox Sports 1 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/10182.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 1 HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports 1" ,Fox Sports 1 HD 1080P - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/8574.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 2 - US - HD" tvg-logo="" tvg-id="Fox Sports 2" ,Fox Sports 2 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/13.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports 2 - US - HD" tvg-logo="" tvg-id="Fox Sports 2" ,Fox Sports 2 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8573.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox SPORTS 506 - US - HD" tvg-logo="" tvg-id="" ,Fox SPORTS 506 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/4009.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Arizona HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Arizona" ,Fox Sports Arizona HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Arizona - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Arizona" ,Fox Sports Arizona - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27295.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS ATLANTA HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS ATLANTA HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS ATLANTA - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS ATLANTA - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32561.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Carolina HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Carolina HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Carolina - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Carolina - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27294.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS CAROLINAS HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports South - Carolinas" ,FOX SPORTS CAROLINAS HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS CAROLINAS - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports South - Carolinas" ,FOX SPORTS CAROLINAS - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32560.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Cincinnati HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Ohio - Cincinnati (2) HD" ,Fox Sports Cincinnati HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Cincinnati - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Ohio - Cincinnati (2) HD" ,Fox Sports Cincinnati - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27293.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Cleveland - US - HD" tvg-logo="" tvg-id="" ,Fox Sports Cleveland - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/32559.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Atlantic HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Atlantic" ,Fox Sports College Atlantic HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Atlantic - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Atlantic" ,Fox Sports College Atlantic - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27292.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Central HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Central" ,Fox Sports College Central HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Central - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Central" ,Fox Sports College Central - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17013.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Pacific HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Pacific" ,Fox Sports College Pacific HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Pacific - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Pacific" ,Fox Sports College Pacific - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27291.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS DEPORTES HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Deportes" ,FOX SPORTS DEPORTES HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS DEPORTES - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Deportes" ,FOX SPORTS DEPORTES - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32558.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Detroit HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Detroit" ,Fox Sports Detroit HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Detroit - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Detroit" ,Fox Sports Detroit - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27290.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Florida HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Florida" ,Fox Sports Florida HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Florida - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Florida" ,Fox Sports Florida - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27289.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS INDIANA HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Indiana" ,FOX SPORTS INDIANA HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS INDIANA - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Indiana" ,FOX SPORTS INDIANA - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32557.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS KANSAS CITY HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Midwest - Kansas City" ,FOX SPORTS KANSAS CITY HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS KANSAS CITY - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Midwest - Kansas City" ,FOX SPORTS KANSAS CITY - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32556.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Mid West HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Mid West HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Mid West - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Mid West - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27288.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Net - US - HD" tvg-logo="" tvg-id="" ,Fox Sports Net - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17011.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports North - US - FHD" tvg-logo="" tvg-id="" ,Fox Sports North - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17010.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Ohio HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Ohio - Cleveland HD" ,Fox Sports Ohio HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Ohio - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Ohio - Cleveland HD" ,Fox Sports Ohio - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27287.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Plus HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Plus HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Plus - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox Sports Plus - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27286.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Prime Ticket HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports West Prime Ticket" ,Fox Sports Prime Ticket HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Prime Ticket - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports West Prime Ticket" ,Fox Sports Prime Ticket - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27285.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports San Diego HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports San Diego" ,Fox Sports San Diego HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports San Diego - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports San Diego" ,Fox Sports San Diego - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27284.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South East HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southeast" ,Fox Sports South East HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/27283.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports South" ,Fox Sports South HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports South" ,Fox Sports South - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27282.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South West HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southwest" ,Fox Sports South West HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South East - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southeast" ,Fox Sports South East - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/27283.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports South West - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southwest" ,Fox Sports South West - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27281.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS SPORTSTIME OHIO HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS SPORTSTIME OHIO HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS SPORTSTIME OHIO - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS SPORTSTIME OHIO - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32555.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Sun HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Sun - Lightning\/Magic HD" ,Fox Sports Sun HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Sun - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Sun - Lightning\/Magic HD" ,Fox Sports Sun - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27280.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Tennessee HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southeast - Tennessee" ,Fox Sports Tennessee HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Tennessee - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Southeast - Tennessee" ,Fox Sports Tennessee - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27279.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports West HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports West" ,Fox Sports West HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports West - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports West" ,Fox Sports West - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27278.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Wisconsin HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Wisconsin" ,Fox Sports Wisconsin HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Wisconsin - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Wisconsin" ,Fox Sports Wisconsin - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27277.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS YES HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS YES HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS YES - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FOX SPORTS YES - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32554.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox SportsTime Ohio - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fox SportsTime Ohio - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32553.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="LIVE NBA 1 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,LIVE NBA 1 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="LIVE NBA 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,LIVE NBA 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17175.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="LIVE NBA 1 HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,LIVE NBA 1 HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="LIVE NBA 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,LIVE NBA 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17174.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 1 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 1 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26464.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 02 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 02 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26456.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 03 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 03 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26455.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 04 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 04 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26454.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 05 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 05 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26453.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 06 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 06 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26452.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 07 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 07 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26451.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 08 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 08 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26450.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 09 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 09 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/26449.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 10 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 10 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26463.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 11 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 11 - US - Classificar Qualidade
@@ -2075,47 +2091,31 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/26459.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/26458.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 16 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 16 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26457.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 2 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 2 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26456.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 3 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 3 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26455.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 4 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 4 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26454.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 5 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 5 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26453.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 6 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 6 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26452.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 7 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 7 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26451.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 8 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 8 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26450.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="MLB EXTRA 9 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MLB EXTRA 9 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26449.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="MLB Network - US - Classificar Qualidade" tvg-logo="" tvg-id="MLB Network" ,MLB Network - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3477.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 760 HD US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 760 HD US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 760 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 760 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31079.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 761 HD US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 761 HD US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 761 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 761 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31078.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 763 HD US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 763 HD US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 763 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 763 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31076.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 764 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 764 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31075.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 768 HD US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 768 HD US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 768 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 768 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31071.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 1 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 1 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26431.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 2 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 2 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 02 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 02 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26427.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 3 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 3 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 03 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 03 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26426.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 4 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 4 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 04 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 04 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26425.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 5 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 5 - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 05 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 05 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26424.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3484.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16394.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBC Sports Bay Area - US - HD" tvg-logo="" tvg-id="NBC Sports Bay Area" ,NBC Sports Bay Area - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/32576.m3u8
@@ -2161,29 +2161,29 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/11770.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/27268.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NFL REDZONE SD - US - Classificar Qualidade" tvg-logo="" tvg-id="NFL Red Zone" ,NFL REDZONE SD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/5725.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 706 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 706 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 706 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 706 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31068.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 707 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 707 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 707 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 707 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31067.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 708 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 708 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 708 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 708 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31066.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 709 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 709 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 709 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 709 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31065.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 710 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 710 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 710 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 710 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31064.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 711 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 711 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 711 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 711 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31063.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 712 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 712 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 712 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 712 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31062.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 713 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 713 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 713 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 713 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31061.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 714 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 714 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 714 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 714 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31060.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 715 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 715 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 715 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 715 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31059.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 716 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 716 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 716 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 716 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31058.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 717 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 717 US - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NFL SUNDAY TICKET 717 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 717 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31057.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NHL 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NHL 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31042.m3u8
