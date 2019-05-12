@@ -40,11 +40,13 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8052.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="RBS TV Porto Alegre - BR - Classificar Qualidade" tvg-logo="" tvg-id="RBS TV Porto Alegre HD" ,RBS TV Porto Alegre - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17512.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="" tvg-id="Record TV HD" ,Record - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/17034.m3u8
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="Record - BR - SD" tvg-logo="" tvg-id="Record TV HD" ,Record - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17511.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Record News - BR - SD" tvg-logo="" tvg-id="Record News HD" ,Record News - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7926.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="Rede Brasil - BR - Classificar Qualidade" tvg-logo="" tvg-id="Rede Brasil HD" ,Rede Brasil - BR - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/17510.m3u8
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="REDE GOSPEL - BR - SD" tvg-logo="" tvg-id="Rede Gospel HD" ,REDE GOSPEL - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/5291.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Rede TV - BR - FHD" tvg-logo="" tvg-id="RedeTV! HD" ,Rede TV - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/40043.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Rede TV - BR - SD" tvg-logo="" tvg-id="RedeTV! HD" ,Rede TV - BR - SD
@@ -57,6 +59,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8070.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7928.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Brasil - BR - SD" tvg-logo="" tvg-id="TV Brasil HD" ,TV Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7317.m3u8
+#EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario - BR - SD" tvg-logo="" tvg-id="TV Diário HD" ,TV Diario - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8078.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TV Diario Brasil - BR - SD" tvg-logo="" tvg-id="TV Diário HD" ,TV Diario Brasil - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5311.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TV GAZETA - BR - HD" tvg-logo="" tvg-id="TV Gazeta HD" ,TV GAZETA - BR - HD
@@ -67,14 +71,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40037.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/5308.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE - BR - SD" tvg-logo="" tvg-id="TVE" ,TVE - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8088.m3u8
-#EXTINF:-1 group-title="BR - Abertos" tvg-name="TVE HD 720 Brasil - BR - SD" tvg-logo="" tvg-id="TVE" ,TVE HD 720 Brasil - BR - SD
-http://iptv-line.com:6969/live/glealroda1/groda3834/5281.m3u8
 #EXTINF:-1 group-title="BR - Abertos" tvg-name="Vem e Ve TV - BR - SD" tvg-logo="" tvg-id="" ,Vem e Ve TV - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8075.m3u8
-#EXTINF:-1 group-title="BR - Brazil" tvg-name="Max FHD - BR - Classificar Qualidade" tvg-logo="" tvg-id="" ,Max FHD - BR - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/40052.m3u8
-#EXTINF:-1 group-title="BR - Brazil" tvg-name="Premiere 9 - BR - Classificar Qualidade" tvg-logo="" tvg-id="" ,Premiere 9 - BR - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7334.m3u8
+#EXTINF:-1 group-title="BR - Brazil" tvg-name="Cartoon Network FHD - BR - Classificar Qualidade" tvg-logo="" tvg-id="" ,Cartoon Network FHD - BR - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/40075.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="" tvg-id="BandSports HD" ,Band Sports - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5678.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Band Sports - BR - FHD" tvg-logo="" tvg-id="BandSports HD" ,Band Sports - BR - FHD
@@ -109,8 +109,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40068.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/5327.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="ESPN plus - BR - HD" tvg-logo="" tvg-id="ESPN +" ,ESPN plus - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5326.m3u8
-#EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo 2 HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Esporte Interativo 2 HD" ,Esporte Interativo 2 HD - BR - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/17061.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Esporte Interativo HD - BR - Classificar Qualidade" tvg-logo="" tvg-id="Esporte Interativo HD" ,Esporte Interativo HD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17059.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="FOX Sports - BR - FHD" tvg-logo="" tvg-id="FOX Sports HD" ,FOX Sports - BR - FHD
@@ -165,6 +163,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/33376.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17516.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 8 - BR - Classificar Qualidade" tvg-logo="" tvg-id="Premiere 8 HD" ,Premiere 8 - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/17515.m3u8
+#EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere 9 - BR - SD" tvg-logo="" tvg-id="" ,Premiere 9 - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7334.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - FHD" tvg-logo="" tvg-id="Premiere Clubes HD" ,Premiere Clubes - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17035.m3u8
 #EXTINF:-1 group-title="BR - Esportes" tvg-name="Premiere Clubes - BR - FHD" tvg-logo="" tvg-id="Premiere Clubes HD" ,Premiere Clubes - BR - FHD
@@ -219,8 +219,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/33388.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/33384.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="" tvg-id="Fox HD" ,Fox Channel - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/5687.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - HD" tvg-logo="" tvg-id="Fox HD" ,Fox Channel - BR - HD
-http://iptv-line.com:6969/live/glealroda1/groda3834/31901.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="" tvg-id="Fox HD" ,Fox Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17058.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Fox Channel - BR - SD" tvg-logo="" tvg-id="Fox HD" ,Fox Channel - BR - SD
@@ -277,6 +275,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40056.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/40053.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Mais Globosat - BR - HD" tvg-logo="" tvg-id="+ Globosat" ,Mais Globosat - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7921.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Max - BR - FHD" tvg-logo="" tvg-id="" ,Max - BR - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/40052.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max - BR - SD" tvg-logo="" tvg-id="Max-1" ,Max - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7346.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Max Prime - BR - FHD" tvg-logo="" tvg-id="Max Prime" ,Max Prime - BR - FHD
@@ -293,8 +293,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7344.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/33416.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Megapix - BR - HD" tvg-logo="" tvg-id="Megapix HD" ,Megapix - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8054.m3u8
-#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - Classificar Qualidade" tvg-logo="" tvg-id="Paramount Channel HD" ,Paramount - BR - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/17040.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - FHD" tvg-logo="" tvg-id="Paramount Channel HD" ,Paramount - BR - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7340.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Paramount - BR - FHD" tvg-logo="" tvg-id="Paramount Channel HD" ,Paramount - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33412.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Sony - BR - FHD" tvg-logo="" tvg-id="Sony HD" ,Sony - BR - FHD
@@ -311,8 +311,14 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40042.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7922.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Syfy - BR - FHD" tvg-logo="" tvg-id="Syfy HD" ,Syfy - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/40041.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Syfy - BR - SD" tvg-logo="" tvg-id="Syfy HD" ,Syfy - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8050.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - HD" tvg-logo="" tvg-id="TBS HD" ,TBS - BR - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8066.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="TBS - BR - SD" tvg-logo="" tvg-id="TBS HD" ,TBS - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17028.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="TCM - BR - SD" tvg-logo="" tvg-id="TCM" ,TCM - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7320.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - Classificar Qualidade" tvg-logo="" tvg-id="Telecine Action HD" ,Telecine Action - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31880.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Telecine Action - BR - SD" tvg-logo="" tvg-id="Telecine Action HD" ,Telecine Action - BR - SD
@@ -364,6 +370,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/17022.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - FHD" tvg-logo="" tvg-id="Universal HD" ,Universal Channel - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33396.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="" tvg-id="Universal HD" ,Universal Channel - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8064.m3u8
+#EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="" tvg-id="Universal HD" ,Universal Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17021.m3u8
 #EXTINF:-1 group-title="BR - Filmes" tvg-name="Universal Channel - BR - SD" tvg-logo="" tvg-id="Universal HD" ,Universal Channel - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17498.m3u8
@@ -391,6 +399,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8062.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17533.m3u8
 #EXTINF:-1 group-title="BR - Infantil" tvg-name="Discovery Kids - BR - FHD" tvg-logo="" tvg-id="Discovery Kids HD" ,Discovery Kids - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/40069.m3u8
+#EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney - BR - HD" tvg-logo="" tvg-id="Disney HD" ,Disney - BR - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7361.m3u8
 #EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - FHD" tvg-logo="" tvg-id="Disney Junior Brazil HD" ,Disney Junior - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33426.m3u8
 #EXTINF:-1 group-title="BR - Infantil" tvg-name="Disney Junior - BR - HD" tvg-logo="" tvg-id="Disney Junior Brazil HD" ,Disney Junior - BR - HD
@@ -443,6 +453,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/33395.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8087.m3u8
 #EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo - BR - SD" tvg-logo="" tvg-id="WooHoo HD" ,Woohoo - BR - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17496.m3u8
+#EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo Brasil - BR - Classificar Qualidade" tvg-logo="" tvg-id="WooHoo HD" ,Woohoo Brasil - BR - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/8057.m3u8
 #EXTINF:-1 group-title="BR - Musicas" tvg-name="Woohoo FHD - BR - Classificar Qualidade" tvg-logo="" tvg-id="WooHoo HD" ,Woohoo FHD - BR - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40036.m3u8
 #EXTINF:-1 group-title="BR - Noticias" tvg-name="Band News - BR - FHD" tvg-logo="" tvg-id="Bandnews HD" ,Band News - BR - FHD
@@ -497,6 +509,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/17066.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/33428.m3u8
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - HD" tvg-logo="" tvg-id="Discovery Turbo HD" ,Discovery Turbo - BR - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17065.m3u8
+#EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery Turbo - BR - SD" tvg-logo="" tvg-id="Discovery Turbo HD" ,Discovery Turbo - BR - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/7362.m3u8
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World - BR - FHD" tvg-logo="" tvg-id="Discovery World HD" ,Discovery World - BR - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/33427.m3u8
 #EXTINF:-1 group-title="BR - Variedades" tvg-name="Discovery World HD - BR - HD" tvg-logo="" tvg-id="Discovery World HD" ,Discovery World HD - BR - HD
@@ -771,6 +785,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/33035.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/16943.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Game TV SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="gametv.ca" ,CA: Game TV SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26723.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Global FHD - CA - Classificar Qualidade" tvg-logo="" tvg-id="global.ca" ,CA: Global FHD - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/8610.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Global HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="global.ca" ,CA: Global HD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/6428.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: GLOBAL HD(1) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: GLOBAL HD(1) - CA - Classificar Qualidade
@@ -839,8 +855,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/26705.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/26706.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: MUCH MUSIC SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="muchmusic.ca" ,CA: MUCH MUSIC SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26704.m3u8
-#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: MUSIQUE PLUS - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: MUSIQUE PLUS - CA - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/32021.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: NAT GEO WILD  HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="natgeowild.ca" ,CA: NAT GEO WILD  HD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26992.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: NBC EAST - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: NBC EAST - CA - Classificar Qualidade
@@ -851,10 +865,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40248.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/26712.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OLN SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="OutdoorLifeNetwork.ca" ,CA: OLN SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26711.m3u8
-#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OMNI 1 HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: OMNI 1 HD - CA - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/40247.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OMNI 1 SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="omni1.ca" ,CA: OMNI 1 SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26710.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OMNI 2 HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: OMNI 2 HD - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/40246.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OMNI 2 SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="omni2.ca" ,CA: OMNI 2 SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26709.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: OOUTDOOR LIFE NETWORK  HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: OOUTDOOR LIFE NETWORK  HD - CA - Classificar Qualidade
@@ -929,14 +943,30 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/32371.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/40241.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TELEMAGINO (French) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: TELEMAGINO (French) - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40240.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Telemundo - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: Telemundo - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/8609.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Teletoon  SD - CA - Classificar Qualidade" tvg-logo="" tvg-id="teletoon.ca" ,CA: Teletoon  SD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26968.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: Teletoon HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: Teletoon HD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32018.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TFO (French) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: TFO (French) - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40239.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network 2 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMN2.ca" ,CA: The Movie Network 2 East  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16923.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network 2 West  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="The Movie Network 2" ,CA: The Movie Network 2 West  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16922.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network 3 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMN3.ca" ,CA: The Movie Network 3 East  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16921.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network 3 West  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMN3.ca" ,CA: The Movie Network 3 West  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16920.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network 4 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMN4.ca" ,CA: The Movie Network 4 East  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16919.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network Encore 1 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMNEncore1.ca" ,CA: The Movie Network Encore 1 East  local - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16918.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network Encore 2 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMNEncore2.ca" ,CA: The Movie Network Encore 2 East  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16916.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: The Movie Network Encore 2 West  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="TMNEncore2.ca" ,CA: The Movie Network Encore 2 West  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16915.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TLC  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="tlc.ca" ,CA: TLC  local - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16914.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TMN 2 - CA - Classificar Qualidade" tvg-logo="" tvg-id="tmn2.ca" ,CA: TMN 2 - CA - Classificar Qualidade
@@ -963,10 +993,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/9375.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/9376.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TV5 QUEBEC (French) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: TV5 QUEBEC (French) - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40237.m3u8
-#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TVA GATINEAU (French) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: TVA GATINEAU (French) - CA - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/40236.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TVA HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="tva.ca" ,CA: TVA HD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8528.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CA: TVO HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="tvo.ca" ,CA: TVO HD - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/17682.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: UNIS TV - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: UNIS TV - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/32019.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CA: V MONTREAL (French) - CA - Classificar Qualidade" tvg-logo="" tvg-id="" ,CA: V MONTREAL (French) - CA - Classificar Qualidade
@@ -1013,6 +1043,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40230.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/40229.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CAN: CTV NEWS HD - CA - Classificar Qualidade" tvg-logo="" tvg-id="ctvnews.ca" ,CAN: CTV NEWS HD - CA - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16812.m3u8
+#EXTINF:-1 group-title="CA - Canada" tvg-name="CAN: The Movie Network 1 East  local - CA - Classificar Qualidade" tvg-logo="" tvg-id="tmn.ca" ,CAN: The Movie Network 1 East  local - CA - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/16924.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CBC ATLANTIC - CA - HD" tvg-logo="" tvg-id="cbcatlantic.ca" ,CBC ATLANTIC - CA - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16811.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CBC EDMONTON - CA - HD" tvg-logo="" tvg-id="" ,CBC EDMONTON - CA - HD
@@ -1023,8 +1055,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/26964.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/26741.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CBC News - CA - HD" tvg-logo="" tvg-id="cbcnews.ca" ,CBC News - CA - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16805.m3u8
-#EXTINF:-1 group-title="CA - Canada" tvg-name="CBC News - CA - SD" tvg-logo="" tvg-id="cbcnews.ca" ,CBC News - CA - SD
-http://iptv-line.com:6969/live/glealroda1/groda3834/17963.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CBC OTTAWA - CA - HD" tvg-logo="" tvg-id="" ,CBC OTTAWA - CA - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17962.m3u8
 #EXTINF:-1 group-title="CA - Canada" tvg-name="CBC TV 8 - CA - SD" tvg-logo="" tvg-id="" ,CBC TV 8 - CA - SD
@@ -1119,6 +1149,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/16953.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17942.m3u8
 #EXTINF:-1 group-title="CA - Variedades" tvg-name="HGTV - CA - SD" tvg-logo="" tvg-id="hgtv.ca" ,HGTV - CA - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16940.m3u8
+#EXTINF:-1 group-title="Classificar Country - United States" tvg-name="US: NESN PLUS HD -  - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: NESN PLUS HD -  - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/40330.m3u8
 #EXTINF:-1 group-title="PT - Esportes" tvg-name="A BOLA TV - PT - SD" tvg-logo="" tvg-id="abolatv.pt" ,A BOLA TV - PT - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/3981.m3u8
 #EXTINF:-1 group-title="PT - Esportes" tvg-name="A BOLA TV - PT - SD" tvg-logo="" tvg-id="abolatv.pt" ,A BOLA TV - PT - SD
@@ -1165,8 +1197,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/3975.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/4301.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CINEMUNDO - PT - Classificar Qualidade" tvg-logo="" tvg-id="cinemundo.pt" ,PT: CINEMUNDO - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3972.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CLUBBING TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="clubbingtv.pt" ,PT: CLUBBING TV - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/19203.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: CM TV - PT - Classificar Qualidade" tvg-logo="" tvg-id="cmtv.pt" ,PT: CM TV - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3971.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: DISNEY CHANNEL - PT - Classificar Qualidade" tvg-logo="" tvg-id="disneychannel.pt" ,PT: DISNEY CHANNEL - PT - Classificar Qualidade
@@ -1215,8 +1245,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/28.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7046.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: Fox Comedy - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcomedy.pt" ,PT: Fox Comedy - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3965.m3u8
-#EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX Comedy HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcomedy.pt" ,PT: FOX Comedy HD 1080 - PT - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/7027.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX CRIME - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcrime.pt" ,PT: FOX CRIME - PT - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3940.m3u8
 #EXTINF:-1 group-title="PT - Portugal" tvg-name="PT: FOX CRIME HD 1080 - PT - Classificar Qualidade" tvg-logo="" tvg-id="foxcrime.pt" ,PT: FOX CRIME HD 1080 - PT - Classificar Qualidade
@@ -1431,8 +1459,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7722.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3969.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="FASHION TV - PT - SD" tvg-logo="" tvg-id="fashiontv.pt" ,FASHION TV - PT - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7720.m3u8
-#EXTINF:-1 group-title="PT - Variedades" tvg-name="Fine Living Network - PT - FHD" tvg-logo="" tvg-id="" ,Fine Living Network - PT - FHD
-http://iptv-line.com:6969/live/glealroda1/groda3834/7719.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="Historia - PT - SD" tvg-logo="" tvg-id="historia.pt" ,Historia - PT - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/4302.m3u8
 #EXTINF:-1 group-title="PT - Variedades" tvg-name="HISTÓRIA - PT - SD" tvg-logo="" tvg-id="" ,HISTÓRIA - PT - SD
@@ -1657,8 +1683,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8684.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7791.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: ITV be - UK - Classificar Qualidade" tvg-logo="" tvg-id="itvbe.uk" ,UK: ITV be - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1627.m3u8
-#EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: ITV BOX OFFICE PPV - UK - Classificar Qualidade" tvg-logo="" tvg-id="itvboxoffice.uk" ,UK: ITV BOX OFFICE PPV - UK - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/9183.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: ITV ENCORE HD - UK - Classificar Qualidade" tvg-logo="" tvg-id="itvencore.uk" ,UK: ITV ENCORE HD - UK - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16180.m3u8
 #EXTINF:-1 group-title="UK - United Kingdom" tvg-name="UK: ITV1 - UK - Classificar Qualidade" tvg-logo="" tvg-id="itv1.uk" ,UK: ITV1 - UK - Classificar Qualidade
@@ -1919,6 +1943,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/1037.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/5806.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Bein Sports - US - HD" tvg-logo="" tvg-id="beIN Sport en Espanol" ,Bein Sports - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1104.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="beIN Sports - US - HD" tvg-logo="" tvg-id="beIN Sport en Espanol" ,beIN Sports - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8604.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="beIN Sports - US - HD" tvg-logo="" tvg-id="beIN Sport en Espanol" ,beIN Sports - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/32578.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="BTN - US - HD" tvg-logo="" tvg-id="" ,BTN - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1081.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="BTN - US - HD" tvg-logo="" tvg-id="" ,BTN - US - HD
@@ -1931,6 +1959,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8600.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/32577.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Eleven Sports - US - HD" tvg-logo="" tvg-id="Eleven Sports" ,Eleven Sports - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/28282.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="Eleven Sports Network - US - Classificar Qualidade" tvg-logo="" tvg-id="Eleven Sports" ,Eleven Sports Network - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/32565.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/129.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN" ,ESPN - US - Classificar Qualidade
@@ -1951,8 +1981,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/121.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8579.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN News - US - HD" tvg-logo="" tvg-id="ESPN News" ,ESPN News - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7255.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN Plus 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,ESPN Plus 01 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/31138.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="ESPN U - US - Classificar Qualidade" tvg-logo="" tvg-id="ESPN U" ,ESPN U - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/7256.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="FLOW SPORTS 1 - US - SD" tvg-logo="" tvg-id="" ,FLOW SPORTS 1 - US - SD
@@ -2011,8 +2039,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/27292.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/17013.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports College Pacific - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox College Sports - Pacific" ,Fox Sports College Pacific - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27291.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="FOX SPORTS DEPORTES - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Deportes" ,FOX SPORTS DEPORTES - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/32558.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Detroit - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Detroit" ,Fox Sports Detroit - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27290.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="Fox Sports Florida - US - Classificar Qualidade" tvg-logo="" tvg-id="Fox Sports Florida" ,Fox Sports Florida - US - Classificar Qualidade
@@ -2093,26 +2119,28 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/26458.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/26457.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="MLB Network - US - Classificar Qualidade" tvg-logo="" tvg-id="MLB Network" ,MLB Network - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3477.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 752 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 752 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31087.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 753 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 753 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31086.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 760 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 760 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31079.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 761 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 761 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31078.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 762 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 762 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31077.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 763 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 763 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31076.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 764 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 764 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31075.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 765 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 765 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31074.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 766 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 766 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31073.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 767 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 767 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31072.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA League Pass Live 768 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA League Pass Live 768 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31071.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 01 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26431.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 02 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 02 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26427.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 03 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 03 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26426.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 04 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 04 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26425.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NBA PASS 05 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA PASS 05 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26424.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/3484.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NBA TV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NBA TV - US - Classificar Qualidade
@@ -2187,8 +2215,6 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/31058.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/31057.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NHL 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NHL 01 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31042.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="NHL 03 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NHL 03 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/31036.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NHL 770 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NHL 770 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31056.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="NHL 771 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NHL 771 - US - Classificar Qualidade
@@ -2233,10 +2259,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/397.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/93.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="TSN 5 - US - HD" tvg-logo="" tvg-id="" ,TSN 5 - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/96.m3u8
+#EXTINF:-1 group-title="US - Esportes" tvg-name="UFC Fight Pass 01 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,UFC Fight Pass 01 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/40142.m3u8
 #EXTINF:-1 group-title="US - Esportes" tvg-name="UFC Fight Pass 02 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,UFC Fight Pass 02 - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40140.m3u8
-#EXTINF:-1 group-title="US - Esportes" tvg-name="UFC Fight Pass 03 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,UFC Fight Pass 03 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/40139.m3u8
 #EXTINF:-1 group-title="US - Filmes" tvg-name="A&E - US - SD" tvg-logo="" tvg-id="AandE US - Eastern Feed" ,A&E - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/50.m3u8
 #EXTINF:-1 group-title="US - Filmes" tvg-name="A&E - US - SD" tvg-logo="" tvg-id="AandE US - Eastern Feed" ,A&E - US - SD
@@ -2395,6 +2421,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/5762.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/15.m3u8
 #EXTINF:-1 group-title="US - Infantil" tvg-name="Cartoon Network - US - HD" tvg-logo="" tvg-id="Cartoon Network USA - Eastern Feed" ,Cartoon Network - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8602.m3u8
+#EXTINF:-1 group-title="US - Infantil" tvg-name="Disney Channel - US - HD" tvg-logo="" tvg-id="Disney - Eastern Feed" ,Disney Channel - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/17813.m3u8
 #EXTINF:-1 group-title="US - Infantil" tvg-name="Disney Junior - US - FHD" tvg-logo="" tvg-id="Disney Junior USA - East" ,Disney Junior - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7918.m3u8
 #EXTINF:-1 group-title="US - Infantil" tvg-name="Disney Junior - US - FHD" tvg-logo="" tvg-id="Disney Junior USA - East" ,Disney Junior - US - FHD
@@ -2403,6 +2431,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8587.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7919.m3u8
 #EXTINF:-1 group-title="US - Infantil" tvg-name="Disney XD - US - HD" tvg-logo="" tvg-id="Disney XD USA - Eastern Feed" ,Disney XD - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8586.m3u8
+#EXTINF:-1 group-title="US - Musica" tvg-name="CMT - US - FHD" tvg-logo="" tvg-id="CMT US - Eastern Feed" ,CMT - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8596.m3u8
+#EXTINF:-1 group-title="US - Musica" tvg-name="CMT - US - FHD" tvg-logo="" tvg-id="CMT US - Eastern Feed" ,CMT - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/27299.m3u8
 #EXTINF:-1 group-title="US - Musicas" tvg-name="MTV HD - US - Classificar Qualidade" tvg-logo="" tvg-id="MTV USA - Eastern Feed" ,MTV HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/16088.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="ABC 13 - Houston - US - Classificar Qualidade" tvg-logo="" tvg-id="ABC (KTRK) Houston, TX" ,ABC 13 - Houston - US - Classificar Qualidade
@@ -2421,6 +2453,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/1078.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/5763.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="Bloomberg - US - HD" tvg-logo="" tvg-id="Bloomberg TV USA" ,Bloomberg - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/6978.m3u8
+#EXTINF:-1 group-title="US - Noticias" tvg-name="BNN Bloomberg - US - SD" tvg-logo="" tvg-id="" ,BNN Bloomberg - US - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/5801.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="C-Span 1 - US - SD" tvg-logo="" tvg-id="C-SPAN" ,C-Span 1 - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/4997.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="C-Span 2 - US - SD" tvg-logo="" tvg-id="C-SPAN 2" ,C-Span 2 - US - SD
@@ -2461,56 +2495,22 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/26870.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7151.m3u8
 #EXTINF:-1 group-title="US - Noticias" tvg-name="WGN 9 - Chicago - US - SD" tvg-logo="" tvg-id="WGN America - Eastern Feed" ,WGN 9 - Chicago - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17861.m3u8
+#EXTINF:-1 group-title="US - Religiao" tvg-name="DayStar - US - FHD" tvg-logo="" tvg-id="" ,DayStar - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/16101.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="AFN Spectrum - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,AFN Spectrum - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31551.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="Bein sport 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="beIN Sport en Espanol" ,Bein sport 1080P - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/8604.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="beIN Sport FHD - US - " tvg-logo="" tvg-id="beIN Sport en Espanol" ,beIN Sport FHD - US - 
-http://iptv-line.com:6969/live/glealroda1/groda3834/32578.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BET HD - US - Classificar Qualidade" tvg-logo="" tvg-id="BET - Eastern Feed" ,BET HD - US - Classificar Qualidade
+#EXTINF:-1 group-title="US - United States" tvg-name="BET HD - US - FHD" tvg-logo="" tvg-id="BET - Eastern Feed" ,BET HD - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/16853.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BET HER HD - US - SD" tvg-logo="" tvg-id="BET Her" ,BET HER HD - US - SD
+#EXTINF:-1 group-title="US - United States" tvg-name="BET HER - US - SD" tvg-logo="" tvg-id="BET Her" ,BET HER - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/27167.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BNN - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,BNN - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/5801.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BOUNCE (SD) - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,BOUNCE (SD) - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/16852.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BRAVO HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Bravo USA - Eastern Feed" ,BRAVO HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/17204.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BRAVO HD(1) - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,BRAVO HD(1) - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/128.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="BUZZR - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,BUZZR - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/27168.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="BYU TV - US - SD" tvg-logo="" tvg-id="" ,BYU TV - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/164.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="CMT - Country Music Television HD - US - Classificar Qualidade" tvg-logo="" tvg-id="CMT US - Eastern Feed" ,CMT - Country Music Television HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/27299.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="CMT HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="CMT US - Eastern Feed" ,CMT HD 1080P - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/8596.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="CW HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,CW HD 1080P - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/8591.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="DayStar HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,DayStar HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/16101.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="CW11 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,CW11 - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/5768.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="District Knowledge Network - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,District Knowledge Network - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27298.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="District of Columbia Network - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,District of Columbia Network - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/27297.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="DPAN TV HD (The Sign Language Channel) - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,DPAN TV HD (The Sign Language Channel) - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/27296.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="DW - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,DW - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/2901.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="El Rey Network HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="El Rey Network" ,El Rey Network HD 1080P - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/8584.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="EL REY NETWORK HD* - US - Classificar Qualidade" tvg-logo="" tvg-id="El Rey Network" ,EL REY NETWORK HD* - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/32566.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="Eleven Sports Network HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Eleven Sports" ,Eleven Sports Network HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/32565.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="EPIX DRIVE IN - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,EPIX DRIVE IN - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33023.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="EPIX Hits - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,EPIX Hits - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/33026.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="EPL 6 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,EPL 6 - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/26414.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="FAITHLIFE - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,FAITHLIFE - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/33022.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Fight HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Fight HD - US - Classificar Qualidade
@@ -2547,12 +2547,12 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8570.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/1098.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="HALLMARK CHANNEL - US - Classificar Qualidade" tvg-logo="" tvg-id="Hallmark - Eastern Feed" ,HALLMARK CHANNEL - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/33029.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="HEROES AND ICONS - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,HEROES AND ICONS - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/7991.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="HIFI - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,HIFI - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/1105.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="LMN HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,LMN HD 1080P - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8558.m3u8
-#EXTINF:-1 group-title="US - United States" tvg-name="Longhorn Network HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Longhorn Network" ,Longhorn Network HD - US - Classificar Qualidade
-http://iptv-line.com:6969/live/glealroda1/groda3834/32551.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="MelloTV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MelloTV - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/2281.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="MoviePlex HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,MoviePlex HD - US - Classificar Qualidade
@@ -2615,10 +2615,14 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/27272.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/27271.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="NFL NETWORK FHD - US - Classificar Qualidade" tvg-logo="" tvg-id="NFL Network" ,NFL NETWORK FHD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/11769.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="NFL REDZONE HD - US - Classificar Qualidade" tvg-logo="" tvg-id="NFL Red Zone" ,NFL REDZONE HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/31140.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="NFL SUNDAY TICKET 705 US - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,NFL SUNDAY TICKET 705 US - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31069.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="NHL Network HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="NHL Network USA" ,NHL Network HD 1080P - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8550.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="Nick Jr. HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Nick Jr. - East" ,Nick Jr. HD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/17251.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Nick Jr. HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="Nick Jr. - East" ,Nick Jr. HD 1080P - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8552.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="NICKELODEN HD - US - Classificar Qualidade" tvg-logo="" tvg-id="Nickelodeon USA - East Feed" ,NICKELODEN HD - US - Classificar Qualidade
@@ -2701,6 +2705,10 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8539.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8538.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="TBS HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="TBS - East" ,TBS HD 1080P - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8537.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="Telemundo Houston - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Telemundo Houston - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/29337.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="Telemundo Los Angeles - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Telemundo Los Angeles - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/29335.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Telemundo Miami - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Telemundo Miami - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/29334.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Telemundo Tucson - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Telemundo Tucson - US - Classificar Qualidade
@@ -2715,6 +2723,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8536.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7146.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="TLC FHD - US - Classificar Qualidade" tvg-logo="" tvg-id="TLC USA - Eastern" ,TLC FHD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/31803.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="Toon Kids - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Toon Kids - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/7782.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="TruTV HD 1080P - US - Classificar Qualidade" tvg-logo="" tvg-id="truTV USA - Eastern" ,TruTV HD 1080P - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/8534.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="TSN 1 - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,TSN 1 - US - Classificar Qualidade
@@ -2759,6 +2769,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/40224.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/40223.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="US: THE BLAZE - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: THE BLAZE - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40222.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="US: The Cowboy Channel SD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: The Cowboy Channel SD - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/40221.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="US: UFC TV HD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,US: UFC TV HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/40282.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="US: UNIVERSAL KIDS HD - US - Classificar Qualidade" tvg-logo="" tvg-id="universalkids.us" ,US: UNIVERSAL KIDS HD - US - Classificar Qualidade
@@ -2797,6 +2809,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/8409.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/7149.m3u8
 #EXTINF:-1 group-title="US - United States" tvg-name="Yes Network FHD - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,Yes Network FHD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26828.m3u8
+#EXTINF:-1 group-title="US - United States" tvg-name="YTV - US - Classificar Qualidade" tvg-logo="" tvg-id="" ,YTV - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/7148.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="American Heroes Channel - US - HD" tvg-logo="" tvg-id="American Heroes Channel" ,American Heroes Channel - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7990.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Animal Planet - US - HD" tvg-logo="" tvg-id="Animal Planet US - East" ,Animal Planet - US - HD
@@ -2805,6 +2819,12 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/132.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8606.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="BBC America - US - HD" tvg-logo="" tvg-id="BBC America - East" ,BBC America - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8605.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="BRAVO - US - Classificar Qualidade" tvg-logo="" tvg-id="Bravo USA - Eastern Feed" ,BRAVO - US - Classificar Qualidade
+http://iptv-line.com:6969/live/glealroda1/groda3834/17204.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="BRAVO - US - HD" tvg-logo="" tvg-id="" ,BRAVO - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/128.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="BUZZR - US - HD" tvg-logo="" tvg-id="" ,BUZZR - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/27168.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="" tvg-id="" ,CNBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/3246.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="CNBC - US - HD" tvg-logo="" tvg-id="" ,CNBC - US - HD
@@ -2841,16 +2861,24 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/5761.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/3481.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Discovery Velocity - US - HD" tvg-logo="" tvg-id="" ,Discovery Velocity - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8531.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="District of Columbia Network - US - FHD" tvg-logo="" tvg-id="" ,District of Columbia Network - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/27297.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="DIY - US - HD" tvg-logo="" tvg-id="" ,DIY - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1100.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="DIY - US - HD" tvg-logo="" tvg-id="" ,DIY - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8585.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="DOG TV - US - FHD" tvg-logo="" tvg-id="" ,DOG TV - US - FHD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17852.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="DW - US - SD" tvg-logo="" tvg-id="" ,DW - US - SD
+http://iptv-line.com:6969/live/glealroda1/groda3834/2901.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="E! - US - HD" tvg-logo="" tvg-id="E! Entertainment USA - Eastern Feed" ,E! - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/7775.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="E! HD - US - Classificar Qualidade" tvg-logo="" tvg-id="E! Entertainment USA - Eastern Feed" ,E! HD - US - Classificar Qualidade
 http://iptv-line.com:6969/live/glealroda1/groda3834/26395.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="El Rey Network - US - FHD" tvg-logo="" tvg-id="El Rey Network" ,El Rey Network - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8584.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="El Rey Network - US - FHD" tvg-logo="" tvg-id="El Rey Network" ,El Rey Network - US - FHD
+http://iptv-line.com:6969/live/glealroda1/groda3834/32566.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Food Network - US - HD" tvg-logo="" tvg-id="Food Network USA - Eastern Feed" ,Food Network - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1079.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Food Network - US - HD" tvg-logo="" tvg-id="Food Network USA - Eastern Feed" ,Food Network - US - HD
@@ -2883,12 +2911,16 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/7259.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/8390.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Nat Geo Wild - US - SD" tvg-logo="" tvg-id="National Geographic Wild" ,Nat Geo Wild - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/1095.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="National Geographic - US - HD" tvg-logo="" tvg-id="National Geographic US - Eastern" ,National Geographic - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8590.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="NBC - US - HD" tvg-logo="" tvg-id="" ,NBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/8549.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="NBC - US - HD" tvg-logo="" tvg-id="" ,NBC - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/17623.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="NBC - US - SD" tvg-logo="" tvg-id="" ,NBC - US - SD
 http://iptv-line.com:6969/live/glealroda1/groda3834/6621.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="PIX11 - US - HD" tvg-logo="" tvg-id="" ,PIX11 - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/8591.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo Boston - US - HD" tvg-logo="" tvg-id="" ,Telemundo Boston - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/29343.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo Chicago - US - HD" tvg-logo="" tvg-id="" ,Telemundo Chicago - US - HD
@@ -2899,6 +2931,8 @@ http://iptv-line.com:6969/live/glealroda1/groda3834/29341.m3u8
 http://iptv-line.com:6969/live/glealroda1/groda3834/29340.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo Fresno - US - HD" tvg-logo="" tvg-id="" ,Telemundo Fresno - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/29339.m3u8
+#EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo Las Vegas - US - HD" tvg-logo="" tvg-id="" ,Telemundo Las Vegas - US - HD
+http://iptv-line.com:6969/live/glealroda1/groda3834/29336.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo New York - US - HD" tvg-logo="" tvg-id="" ,Telemundo New York - US - HD
 http://iptv-line.com:6969/live/glealroda1/groda3834/29333.m3u8
 #EXTINF:-1 group-title="US - Variedades" tvg-name="Telemundo Phoenix - US - HD" tvg-logo="" tvg-id="" ,Telemundo Phoenix - US - HD
